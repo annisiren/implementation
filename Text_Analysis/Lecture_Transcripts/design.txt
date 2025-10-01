@@ -1,0 +1,145 @@
+Design Documentation
+
+Click to edit Master text styles
+
+EECS 2311 - Software Development Project
+
+Second level
+
+Third level
+
+Fourth level
+
+Fifth level
+
+Tuesday, March 2, 2021
+
+1
+
+Design document
+
+• Documents the high-level structure of the 
+
+software system
+
+• What are the important classes?
+
+• What are the important methods?
+
+• How do they interact with each other?
+
+• What are important objects that get created at 
+
+runtime?
+
+• How are they connected to each other?
+
+2
+
+Design document
+
+• Audience: Developers
+
+• The customer / user never sees the design 
+
+document
+
+• Goal: An experienced developer that is 
+
+unfamiliar with the system should be able to 
+read the document and get a clear idea of the 
+system’s design (ideally also the rationale for 
+the design).
+
+3
+
+Diagrams are crucial
+
+• A design document without diagrams is a poor 
+
+design document
+
+• Need at least:
+
+• A class diagram depicting the important 
+
+classes and how they are connected (static 
+view)
+
+• A sequence diagram depicting important 
+objects and how they interact at runtime 
+(dynamic view)
+
+4
+
+Class diagrams
+
+• Select the important classes / methods of your 
+system and present the relationships between 
+them in a UML class diagram
+
+• Draw multiple diagrams rather than a single 
+
+huge one
+
+• DO NOT show every class in the system and / 
+
+or every method in each class
+
+• Automatic tools do a poor job of creating class 
+
+diagrams. Draw your own diagrams!
+
+5
+
+Example of poor class diagram
+
+6
+
+Example of useful class diagram
+
+7
+
+Sequence diagrams
+
+• Depict how objects interact at runtime
+
+• Time passes from top to bottom
+
+• Need to draw sequence diagrams for all 
+
+important runtime scenarios of your system
+
+• Again, show relevant / useful information, omit 
+
+unnecessary details
+
+• See tutorial links on course website
+
+8
+
+Sample sequence diagram
+
+9
+
+https://online.visual-paradigm.com/tutorials/sequence-diagram-tutorial/
+
+Learn a diagram tool
+
+• As a software engineer, you will often 
+
+need to create design diagrams
+
+• Find a drawing tool that works for you and 
+
+learn it well
+
+• See link to list of tools on course website
+
+• diagrams.net is a free web-based tool 
+
+that supports UML diagrams
+
+10
+
+

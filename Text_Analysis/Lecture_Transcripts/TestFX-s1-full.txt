@@ -1,0 +1,214 @@
+All right so. 
+Welcome to the video on gooey testing. 
+Error:
+What are we going to try to do here is actually write some test code that will test aspects of our user interface. 
+And. 
+Not something that has to do with say the back end of our application so in our example. 
+Error:
+Testing whether the. 
+Translation from the text up to. 
+Music xml is not correctly it's not really a gooey test. 
+The code that that's all this is part of the back end. 
+Components we have on our interface and how they interact with each other and things like this. 
+So just to give you an example i will demonstrate this. 
+On this little app that i am also supposed to the code for for you. 
+And when i run it. 
+Error:
+And if i look like this as clicked and that's all that happens there's nothing else i can do with this up. 
+Other. 
+Just close it but it's actually good enough for a purpose is here because. 
+It does so ago interaction that we. 
+Write in this case. 
+Being. 
+After i click the button then the text of the bottom must change. 
+So this is about the user interface. 
+Error:
+Informative consistent. 
+I would imagine that one test case that. 
+Everyone would have we need to have in their application. 
+Is the say for example if you have a button that says convert. 
+That this button is disabled if there's no input. 
+Error:
+The file has. 
+Kobe versus anything then. 
+Nobody needs to be disabled. 
+So that could be a test for example. 
+When i start the up the brightness must be disabled if there is input that is recognized as tab maybe. 
+Turn the volume is enabled and things like that right so that's good testing it's about. 
+Testing the internal consistency of our gui. 
+Error:
+It's not to use the gooey to test the back end right we can test it back in directly right we can just. 
+Lower the file and translate it in the back end without an inquiry right so. 
+Error:
+Play rap again on confusion as to. 
+I mean by glee testing. 
+Okay so let's take a look at this code then i'm using job fx here of course testing your good depends on what framework you're using for your goalie. 
+There are ways to do the same thing with swing. 
+Error:
+But you have a fix here since. 
+It's the family. 
+I almost all of you. 
+Error:
+So take a look at the corner of the system. 
+Error:
+Bill delgado. 
+Error:
+Error:
+Will need to have a few more dependencies right so you can see them here. 
+Avoided. 
+Seymour lines. 
+To the stand. 
+So make sure you include those in your product. 
+As well. 
+Otherwise this is the same like we've seen before. 
+Okay. 
+And then let's take a quick look at the main application which is of course. 
+Just load up in fxml file with one button. 
+Right. 
+Error:
+Single button and. 
+Error:
+Provide an id for it called only button. 
+Pacific uses ideas is the best way to do the test because you can. 
+Quickly find the component you need to say something about using its id right so. 
+It's important to have all these ideas set up in your fxml. 
+Error:
+So. 
+Yeah i'm loading it here. 
+And that's putting up the whole. 
+Window app. 
+So that's my app and we're so already how it works. 
+How do i actually write test for it well with test effects we can create a class. 
+How far. 
+Similar to what we've seen for back and testing with the unit. 
+Error:
+There's a whole bunch of things to be important so on you'll take a look at it. 
+But as long as we extend with. 
+Application extension. 
+Then we can use a whole bunch of things that sfx provides. 
+To do our job. 
+And the way it works is. 
+You have. 
+Restart my phone that will bring up the gooey before you start testing it right. 
+Error:
+Error:
+And. 
+We can see here that basically what i do to begin with is i bring up the same guy. 
+So i become the main scene of my application. 
+Before i start each one of the test cases. 
+That's in this case is kind of similar to to the main application. 
+But as you can imagine you can. 
+Use the same idea to to load different things you might have in your in your project so you don't have to start with the beginning scene of the application right you can do. 
+You can load up anything that you want. 
+Error:
+Error:
+Commander that for now so let me just put those back in so the first one test case here. 
+Error:
+You notice that it's test. 
+Error:
+An argument called robot. 
+So this is something provided by test effects so it's basically a helper class that. 
+Will using a second to actually click on the button programmatically rather than with ourselves moving the mouse. 
+It is first. 
+Tasia we don't actually use it. 
+Always saying here is that okay. 
+As soon as we start the app let's verify that. 
+I want to go to. 
+The button. 
+Has the id only button. 
+Then it's text is. 
+We need a text to big cliff me right so you can assert. 
+Things about the different components you have on your voice so that's a very simple. 
+Test case about. 
+Southern state of uruguay if you want. 
+But another the schedule will be as soon as i go it starts. 
+The first thing we want to do is. 
+To use this robot. 
+To actually click on. 
+Error:
+A whole bunch of methods to click on things select different options. 
+And so on so you can look all of those up. 
+In the api. 
+Error:
+But yeah he was saying. 
+Click on the button. 
+So we'll see in a second that actually. 
+This will move my mouse. 
+To click on the button. 
+And. 
+And then was this happened. 
+Error:
+Verify that. 
+Error:
+The idea is that as soon as i click on the button then the text on it changes from click me to clicked. 
+Error:
+Now the button is disabled or enabled. 
+Or some other button is not disabled or enable. 
+Depends on what is. 
+The interaction don't make sense in your. 
+Renaissance if the user has provided all the input that is necessary then maybe the convert button is now. 
+Error:
+Okay so let's see this in action. 
+So i'll save here. 
+And. 
+What i can do. 
+It's actually build my app and. 
+Tell me about the screen i guess. 
+Error:
+All right so now. 
+All the tests were up to date. 
+So we actually didn't do anything. 
+So let me. 
+Go to my main. 
+Error:
+Change the title. 
+Two example two. 
+To build. 
+Error:
+You may not be able to see. 
+What i'm doing but i'm not i didn't actually move the mouse. 
+To to click. 
+Error:
+On the bathroom there. 
+Error:
+That was not. 
+This is just building i didn't run the app. 
+This is the upcoming out because of the test cases so if i try this again. 
+Error:
+Effects example. 
+Save again i'll go over here to. 
+To press the. 
+And the robot. 
+Will move my mouse to click on the. 
+And of course verify that the text is correct before and. 
+Error:
+And i said yeah. 
+Now i have guests also write so obviously in order for this work it actually brings up the gooey. 
+And does things on it. 
+So those are. 
+Could you take a little bit of time to run if you have a lot of these tests. 
+Then of course every time you build they will have to. 
+Happen so. 
+Play delay things a little bit. 
+In terms of building the system. 
+So. 
+100 way to sort of get around this is to if you don't want to run the test every time. 
+Then you can actually use the sample test task for gradually assemble compiled. 
+Your code but will not run the test cases. 
+So i kind of the sample. 
+Alright so. 
+And then. 
+Error:
+Night and this doesn't actually run my tests even if i change the color of my app it will not write the test if i do that. 
+It's not a good idea to do this all the time as you might imagine you do want to be running your tests. 
+As often as possible but. 
+I can say that sometimes especially if you have a lot of gooey test this may. 
+Error:
+So you might want to. 
+Do a couple rounds where you don't run the test until you get somewhere where you think you have sort of completed and you're asking now you want to run all your tests again. 
+All right so i think that completes this video hopefully i'll give you an idea of what we testing is about and when do we use it for what purpose. 
+And also how to do some of those tests in. 
+Using test effects all right so take a look at the link i'll provide about the test effects itself. 
+And and also about this example. 
+Error:
+Jason. 

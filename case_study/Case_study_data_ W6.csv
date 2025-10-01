@@ -1,0 +1,161 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T6,Network security,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:S,I:V,O:I,Pr:R,U:S,video,shallow,Understand,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,Firewall basics,P:S,I:V,,,,image,shallow,,none
+ER2b_1_1,Firewall basics,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER2b_1_2,Firewall basics,P:I,I:V,O:I,Pr:R,U:S,video,general,apply,adaptive
+LO2a_2,,,,,,,,,,none
+ER2a_2_1,Firewall basics,P:S,I:A,O:D,,,video,deep,remember,adaptive
+ER2b_2_1,Firewall basics,P:I,I:V,O:I,Pr:A,U:G,text,deep,create,adaptive
+ER2b_2_2,Firewall basics,P:S,I:A,O:D,Pr:R,,website,general,apply,adaptive
+ER2b_2_3,Firewall basics,P:S,I:A,O:D,Pr:R,,text,general,apply,adaptive
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,Personal firewalls,P:S,I:V,,,,image,shallow,,none
+ER3b_1_1,Personal firewalls,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",none
+ER3c_1_1,Personal firewalls,P:I,I:A,,,,website,general,,none
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Configuring your own firewall,P:S,I:V,,,,image,shallow,,adaptable
+ER4a_1_2,Configuring your own firewall,P:I,I:V,O:I,Pr:A,,video,general,remember,adaptable
+ER4a_1_3,Configuring your own firewall,P:I,I:V,O:I,,,audio,general,understand,adaptable
+ER4a_1_4,Configuring your own firewall,P:I,I:V,O:I,Pr:R,,text,shallow,analyze,adaptable
+ER4b_1_1,Configuring your own firewall,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",adaptive
+ER4b_1_2,Configuring your own firewall,P:I,I:V,O:D,Pr:R,U:G,image,shallow,remember,adaptive
+ER4c_1_1,Configuring your own firewall,P:I,I:A,,,,website,deep,,adaptive
+ER4c_1_2,Configuring your own firewall,P:I,I:V,O:I,Pr:R,U:G,video,general,create,adaptive
+ER4c_1_3,Configuring your own firewall,P:S,I:A,O:I,Pr:A,U:G,text,shallow,understand,adaptive
+ER4c_1_4,Configuring your own firewall,P:S,I:A,O:I,Pr:A,,text,general,remember,adaptive
+ER4c_1_5,Configuring your own firewall,P:I,I:V,O:I,Pr:A,,text,shallow,understand,adaptive
+ER4d_1_1,Configuring your own firewall,P:I,I:A,,,,website,deep,,adaptable
+ER4d_1_2,Configuring your own firewall,P:S,I:A,O:I,Pr:R,,image,deep,,adaptable
+ER4d_1_3,Configuring your own firewall,P:S,I:A,,Pr:R,,video,deep,apply,adaptable
+ER4d_1_4,Configuring your own firewall,P:I,I:V,,Pr:A,U:G,image,deep,,adaptable
+ER4e_1_1,Configuring your own firewall,P:I,I:A,,,,website,deep,,none
+ER4f_1_1,Configuring your own firewall,P:I,I:A,,,,website,deep,,adaptive
+ER4f_1_2,Configuring your own firewall,P:S,I:A,O:I,,U:S,text,shallow,understand,adaptive
+ER4f_1_3,Configuring your own firewall,P:S,I:A,O:I,,U:G,video,general,evaluate,adaptive
+ER4f_1_4,Configuring your own firewall,P:I,I:V,O:I,Pr:A,U:S,text,shallow,remember,adaptive
+ER4g_1_1,Configuring your own firewall,P:I,I:A,,,,website,deep,,adaptive
+ER4g_1_2,Configuring your own firewall,P:S,I:A,,Pr:R,U:S,website,shallow,,adaptive
+ER4h_1_1,Configuring your own firewall,P:I,I:A,O:D,,,text,general,Remember,adaptable
+ER4h_1_2,Configuring your own firewall,P:I,I:V,O:I,Pr:R,U:S,audio,deep,apply,adaptable
+ER4i_1_1,Configuring your own firewall,P:I,I:A,O:D,,,text,general,Remember,adaptable
+ER4i_1_2,Configuring your own firewall,P:I,I:V,,Pr:A,U:S,video,shallow,create,adaptable
+ER4i_1_3,Configuring your own firewall,P:I,I:V,,Pr:R,U:G,video,deep,analyze,adaptable
+ER4j_1_1,Configuring your own firewall,P:I,I:A,,,,website,general,,adaptable
+ER4j_1_2,Configuring your own firewall,P:I,I:V,O:I,Pr:A,,website,general,understand,adaptable
+ER4k_1_1,Configuring your own firewall,P:I,I:A,,,,website,general,,adaptive
+ER4k_1_2,Configuring your own firewall,P:S,I:A,O:D,Pr:R,,website,shallow,remember,adaptive
+ER4k_1_3,Configuring your own firewall,P:S,I:A,O:I,,U:S,audio,shallow,analyze,adaptive
+ER4k_1_4,Configuring your own firewall,P:S,I:A,,Pr:R,U:G,audio,general,remember,adaptive
+ER4k_1_5,Configuring your own firewall,P:S,I:A,,Pr:A,U:G,text,deep,evaluate,adaptive
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER5a_1_1,VPN basics,P:S,I:V,,,,image,shallow,,adaptable
+ER5a_1_2,VPN basics,P:S,I:A,O:I,Pr:A,,video,shallow,create,adaptable
+ER5a_1_3,VPN basics,P:I,I:V,O:I,Pr:R,U:S,audio,deep,remember,adaptable
+ER5a_1_4,VPN basics,P:I,I:V,,Pr:R,U:S,video,deep,apply,adaptable
+ER5a_1_5,VPN basics,P:S,I:A,O:D,Pr:A,U:G,video,deep,analyze,adaptable
+ER5b_1_1,VPN basics,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER5b_1_2,VPN basics,P:I,I:V,O:D,Pr:R,,text,shallow,evaluate,adaptive
+ER5b_1_3,VPN basics,P:I,I:V,O:I,Pr:A,,text,shallow,apply,adaptive
+ER5b_1_4,VPN basics,P:S,I:A,,Pr:R,,audio,shallow,create,adaptive
+ER5c_1_1,VPN basics,P:I,I:A,,,,website,general,,none
+LO3b_1,,,,,,,,,,none
+ER6a_1_1,Securing the tunnels,P:S,I:V,,,,image,shallow,,none
+ER6b_1_1,Securing the tunnels,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Remember",adaptable
+ER6b_1_2,Securing the tunnels,P:I,I:V,,Pr:R,,image,general,apply,adaptable
+ER6b_1_3,Securing the tunnels,P:S,I:A,O:D,Pr:R,U:S,text,general,understand,adaptable
+ER6b_1_4,Securing the tunnels,P:I,I:V,O:I,Pr:A,U:G,audio,shallow,,adaptable
+ER6c_1_1,Securing the tunnels,P:I,I:A,,,,website,general,,adaptable
+ER6c_1_2,Securing the tunnels,P:I,I:V,O:D,Pr:R,,image,general,understand,adaptable
+ER6c_1_3,Securing the tunnels,P:S,I:A,O:I,Pr:A,,video,general,understand,adaptable
+LO3c_1,,,,,,,,,,none
+ER7a_1_1,Security risks of VPN,P:S,I:V,,,,image,shallow,,adaptive
+ER7a_1_2,Security risks of VPN,P:S,I:A,O:I,,U:G,website,deep,understand,adaptive
+ER7a_1_3,Security risks of VPN,P:I,I:V,O:D,,U:S,video,deep,understand,adaptive
+ER7b_1_1,Security risks of VPN,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER7b_1_2,Security risks of VPN,P:S,I:A,O:I,Pr:A,U:S,website,shallow,remember,adaptable
+ER7b_1_3,Security risks of VPN,P:I,I:V,,Pr:R,U:S,audio,general,,adaptable
+ER7b_1_4,Security risks of VPN,P:S,I:A,O:I,Pr:A,U:S,image,general,remember,adaptable
+LO3d_1,,,,,,,,,,none
+ER8a_1_1,Putting VPN to work,P:S,I:V,,,,image,shallow,,adaptive
+ER8a_1_2,Putting VPN to work,P:S,I:A,O:I,Pr:R,U:S,video,general,,adaptive
+ER8a_1_3,Putting VPN to work,P:I,I:V,O:I,,,website,shallow,understand,adaptive
+ER8a_1_4,Putting VPN to work,P:S,I:A,O:D,,U:S,audio,deep,analyze,adaptive
+ER8a_1_5,Putting VPN to work,P:S,I:A,O:D,Pr:R,,audio,deep,,adaptive
+ER8b_1_1,Putting VPN to work,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER8b_1_2,Putting VPN to work,P:I,I:V,,Pr:R,,text,deep,apply,adaptable
+ER8b_1_3,Putting VPN to work,P:S,I:A,O:I,Pr:A,,image,shallow,apply,adaptable
+ER8c_1_1,Putting VPN to work,P:I,I:A,O:D,Pr:A,U:S,text,general,"Apply, Analyze",none
+ER8d_1_1,Putting VPN to work,P:I,I:A,,,,website,deep,,adaptive
+ER8d_1_2,Putting VPN to work,P:S,I:A,,Pr:R,,website,general,,adaptive
+ER8e_1_1,Putting VPN to work,P:I,I:A,,,,website,deep,,adaptive
+ER8e_1_2,Putting VPN to work,P:I,I:V,O:I,Pr:A,U:G,text,general,remember,adaptive
+ER8e_1_3,Putting VPN to work,P:S,I:A,O:D,Pr:A,U:G,image,deep,apply,adaptive
+ER8f_1_1,Putting VPN to work,P:I,I:A,,,,website,deep,,none
+ER8g_1_1,Putting VPN to work,P:I,I:A,,,,website,deep,,adaptive
+ER8g_1_2,Putting VPN to work,P:I,I:V,O:D,Pr:A,,text,deep,create,adaptive
+ER8g_1_3,Putting VPN to work,P:S,I:A,O:D,,U:G,image,deep,evaluate,adaptive
+ER8g_1_4,Putting VPN to work,P:S,I:A,O:I,Pr:R,,text,deep,apply,adaptive
+ER8h_1_1,Putting VPN to work,P:I,I:A,,,,website,deep,,adaptable
+ER8h_1_2,Putting VPN to work,P:S,I:A,O:I,Pr:R,U:G,image,general,apply,adaptable
+ER8h_1_3,Putting VPN to work,P:I,I:V,,Pr:R,U:G,audio,deep,remember,adaptable
+ER8h_1_4,Putting VPN to work,P:S,I:A,O:I,Pr:A,U:S,audio,general,create,adaptable
+ER8h_1_5,Putting VPN to work,P:S,I:A,O:D,Pr:A,,text,deep,evaluate,adaptable
+ER8i_1_1,Putting VPN to work,P:I,I:A,,,,website,deep,,adaptable
+ER8i_1_2,Putting VPN to work,P:I,I:V,O:I,Pr:A,U:S,video,deep,analyze,adaptable
+ER8i_1_3,Putting VPN to work,P:S,I:A,O:I,,U:S,video,shallow,,adaptable
+ER8i_1_4,Putting VPN to work,P:I,I:V,,Pr:R,,audio,shallow,create,adaptable
+ER8i_1_5,Putting VPN to work,P:I,I:V,,Pr:A,U:S,image,general,evaluate,adaptable
+ER8j_1_1,Putting VPN to work,P:I,I:A,,,,website,general,,adaptive
+ER8j_1_2,Putting VPN to work,P:I,I:V,,Pr:A,,audio,deep,,adaptive
+ER8j_1_3,Putting VPN to work,P:I,I:V,O:D,Pr:A,U:S,website,shallow,understand,adaptive
+ER8j_1_4,Putting VPN to work,P:I,I:V,,,U:S,text,shallow,remember,adaptive
+ER8j_1_5,Putting VPN to work,P:S,I:A,O:D,Pr:A,U:G,text,deep,remember,adaptive
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,adaptable
+ER9a_1_1,Intrusion detection system (IDS),P:S,I:V,,,,image,shallow,,adaptable
+ER9a_1_2,Intrusion detection system (IDS),P:I,I:V,,Pr:R,U:G,image,general,remember,adaptable
+ER9b_1_1,Intrusion detection system (IDS),P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO4a_2,,,,,,,,,,adaptable
+ER9b_2_1,Intrusion detection system (IDS),P:S,I:A,O:I,Pr:R,U:S,image,shallow,,adaptable
+ER9b_2_2,Intrusion detection system (IDS),P:S,I:A,O:I,,U:G,website,deep,analyze,adaptable
+ER9b_2_3,Intrusion detection system (IDS),P:I,I:V,O:I,,,text,deep,create,adaptable
+LO4b_1,,,,,,,,,,none
+ER10a_1_1,IDS techniques,P:S,I:V,,,,image,shallow,,adaptable
+ER10a_1_2,IDS techniques,P:S,I:A,,Pr:A,U:S,video,shallow,understand,adaptable
+ER10a_1_3,IDS techniques,P:S,I:A,O:D,,U:S,image,deep,evaluate,adaptable
+ER10a_1_4,IDS techniques,P:S,I:A,O:D,,U:S,audio,deep,evaluate,adaptable
+ER10b_1_1,IDS techniques,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER10b_1_2,IDS techniques,P:S,I:A,,,U:S,website,shallow,analyze,adaptable
+ER10b_1_3,IDS techniques,P:I,I:V,O:I,Pr:A,U:S,image,general,analyze,adaptable
+ER10b_1_4,IDS techniques,P:I,I:V,O:D,Pr:A,,text,general,evaluate,adaptable
+LO4c_1,,,,,,,,,,none
+ER11a_1_1,Honeypots,P:S,I:V,,,,image,shallow,,adaptive
+ER11a_1_2,Honeypots,P:S,I:A,,,,video,shallow,evaluate,adaptive
+ER11a_1_3,Honeypots,P:I,I:V,O:I,,,website,shallow,evaluate,adaptive
+ER11a_1_4,Honeypots,P:I,I:V,,Pr:R,U:S,video,shallow,remember,adaptive
+ER11b_1_1,Honeypots,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER11b_1_2,Honeypots,P:S,I:A,O:I,Pr:R,,audio,deep,create,adaptable
+ER11b_1_3,Honeypots,P:S,I:A,,Pr:A,U:S,audio,general,,adaptable
+ER11b_1_4,Honeypots,P:I,I:V,O:I,Pr:R,U:G,audio,general,create,adaptable
+ER11b_1_5,Honeypots,P:I,I:V,,Pr:A,U:S,website,shallow,understand,adaptable
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER12a_1_1,Week 6 quiz,P:S,I:V,,Pr:R,,text,shallow,Understand,none
+ER12b_1_1,Week 6 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER13a_1_1,Summary of Week 6,P:S,I:V,,,,video,shallow,,none
+ER13b_1_1,Summary of Week 6,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+,Part 6,,,,,,,,,
+LO7a_1,,,,,,,,,,none
+ER14a_1_1,Further reading,P:I,I:V,O:D,,,text,shallow,Understand,none
+ER14b_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER14c_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER14d_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER14e_1_1,Further reading,P:I,I:A,,,,website,deep,,none

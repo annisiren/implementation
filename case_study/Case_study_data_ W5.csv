@@ -1,0 +1,116 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T5,Cryptography,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:S,I:V,O:I,,,video,shallow,Understand,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,The secret of keeping secrets,P:S,I:V,,,,image,shallow,,none
+ER2b_1_1,The secret of keeping secrets,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,Plaintext and ciphertext,P:S,I:V,,,,image,shallow,,none
+ER3b_1_1,Plaintext and ciphertext,P:I,I:A,O:D,Pr:R,U:S,text,shallow,"Remember, Understand",none
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Encryption keys,P:S,I:V,,,,image,shallow,,none
+ER4b_1_1,Encryption keys,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO2d_1,,,,,,,,,,none
+ER5a_1_1,The key distribution problem,P:S,I:V,O:I,Pr:R,U:S,video,general,Understand,none
+ER5b_1_1,The key distribution problem,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO2e_1,,,,,,,,,,none
+ER6a_1_1,Asymmetric or public key cryptography,P:S,I:V,O:D,Pr:R,U:S,video,general,Understand,none
+ER6b_1_1,Asymmetric or public key cryptography,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO2f_1,,,,,,,,,,none
+ER7a_1_1,Why isn’t the internet encrypted?,P:S,I:V,,,,image,general,,none
+ER7b_1_1,Why isn’t the internet encrypted?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER8a_1_1,Putting cryptography to use,P:S,I:V,,,,image,shallow,,none
+ER8b_1_1,Putting cryptography to use,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER8c_1_1,Putting cryptography to use,P:I,I:A,,,,website,general,,none
+ER8d_1_1,Putting cryptography to use,P:I,I:A,,,,website,general,,none
+ER8e_1_1,Putting cryptography to use,P:I,I:A,,,,website,general,,none
+LO3b_1,,,,,,,,,,none
+ER9a_1_1,Setting up a PGP email client,P:S,I:V,,,,image,shallow,,none
+ER9b_1_1,Setting up a PGP email client,P:I,I:A,O:I,Pr:R,U:S,text,general,"Understand, Apply",none
+ER9c_1_1,Setting up a PGP email client,P:I,I:A,,,,website,general,,none
+LO3c_1,,,,,,,,,,none
+ER10a_1_1,Sending signed and encrypted email,P:S,I:V,,,,image,general,,none
+ER10b_1_1,Sending signed and encrypted email,P:I,I:A,O:I,Pr:A,U:S,text,general,"Apply, Create",none
+ER10c_1_1,Sending signed and encrypted email,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Analyze",none
+ER10d_1_1,Sending signed and encrypted email,P:I,I:A,,,,website,general,,none
+ER10e_1_1,Sending signed and encrypted email,P:I,I:A,,,,website,general,,none
+ER10f_1_1,Sending signed and encrypted email,P:I,I:A,,,,website,general,,none
+ER10g_1_1,Sending signed and encrypted email,P:I,I:A,,,,website,general,Remember,none
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER11a_1_1,Comparing different cryptographic techniques,P:S,I:V,,,,image,shallow,,adaptable
+ER11a_1_2,,P:I,I:V,,,U:G,audio,general,apply,adaptable
+ER11a_1_3,,P:S,I:A,O:D,Pr:R,,image,shallow,apply,adaptable
+ER11a_1_4,,P:S,I:A,,,U:G,image,deep,create,adaptable
+ER11a_1_5,,P:I,I:V,O:D,Pr:R,,text,general,understand,adaptable
+ER11b_1_1,Comparing different cryptographic techniques,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER11b_1_2,,P:S,I:A,O:D,,U:S,video,general,evaluate,adaptive
+ER11b_1_3,,P:S,I:A,O:I,,,audio,shallow,remember,adaptive
+ER11b_1_4,,P:S,I:A,,Pr:R,U:S,image,shallow,analyze,adaptive
+ER11b_1_5,,P:S,I:A,,Pr:A,U:S,image,general,analyze,adaptive
+LO4b_1,,,,,,,,,,none
+ER12a_1_1,Using cryptography to prove identity,P:S,I:V,,,,image,shallow,,adaptable
+ER12a_1_2,,P:S,I:A,O:I,Pr:A,,text,shallow,analyze,adaptable
+ER12b_1_1,Using cryptography to prove identity,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER12b_1_2,,P:S,I:A,O:I,Pr:R,U:S,video,shallow,create,adaptive
+ER12b_1_3,,P:S,I:A,O:D,,U:S,audio,shallow,understand,adaptive
+ER12c_1_1,Using cryptography to prove identity,P:I,I:V,,,,image,shallow,,adaptable
+ER12c_1_2,,P:I,I:V,,,,image,deep,understand,adaptable
+ER12c_1_3,,P:I,I:V,O:I,,U:S,text,general,apply,adaptable
+LO4c_1,,,,,,,,,,none
+ER13a_1_1,Digital signatures and certificates,P:S,I:V,O:D,Pr:R,U:S,video,shallow,Understand,none
+ER13b_1_1,Digital signatures and certificates,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Remember",adaptable
+ER13b_1_2,,P:S,I:A,O:D,Pr:R,U:S,image,general,understand,adaptable
+ER13b_1_3,,P:I,I:V,O:D,Pr:A,U:G,website,shallow,,adaptable
+ER13b_1_4,,P:S,I:A,O:I,Pr:R,U:G,image,deep,,adaptable
+ER13b_1_5,,P:S,I:A,O:I,Pr:R,U:S,website,shallow,create,adaptable
+ER13c_1_1,Digital signatures and certificates,P:I,I:A,O:I,Pr:A,U:S,text,general,"Understand, Analyze",adaptive
+ER13c_1_2,,P:S,I:A,O:I,Pr:A,,image,deep,evaluate,adaptive
+ER13c_1_3,,P:S,I:A,O:I,Pr:R,U:S,video,general,,adaptive
+ER13c_1_4,,P:I,I:V,,Pr:R,,text,shallow,create,adaptive
+ER13c_1_5,,P:I,I:V,O:D,,U:S,image,shallow,evaluate,adaptive
+ER13d_1_1,Digital signatures and certificates,P:S,I:V,,,,image,general,,none
+ER13e_1_1,Digital signatures and certificates,P:I,I:A,,,,website,general,,adaptable
+ER13e_1_2,,P:S,I:A,O:D,Pr:A,U:G,image,shallow,apply,adaptable
+ER13e_1_3,,P:I,I:V,O:I,Pr:R,U:S,text,deep,evaluate,adaptable
+ER13e_1_4,,P:I,I:V,O:I,Pr:R,U:G,video,general,understand,adaptable
+LO4d_1,,,,,,,,,,none
+ER14a_1_1,Encrypted network connections,P:S,I:V,,,,image,shallow,,adaptive
+ER14a_1_2,,P:S,I:A,O:D,Pr:A,,video,shallow,evaluate,adaptive
+ER14a_1_3,,P:I,I:V,,Pr:A,,text,general,analyze,adaptive
+ER14a_1_4,,P:S,I:A,O:I,,,audio,general,apply,adaptive
+ER14a_1_5,,P:I,I:V,O:D,Pr:R,,image,shallow,understand,adaptive
+ER14b_1_1,Encrypted network connections,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER14b_1_2,,P:I,I:V,O:D,,U:G,audio,general,apply,adaptive
+ER14b_1_3,,P:S,I:A,,Pr:R,U:S,website,general,create,adaptive
+LO4e_1,,,,,,,,,,none
+ER15a_1_1,How secure is your browsing?,P:S,I:V,,,,image,shallow,,none
+ER15b_1_1,How secure is your browsing?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER15b_1_2,,P:I,I:V,O:I,Pr:A,U:G,text,general,analyze,adaptable
+ER15b_1_3,,P:S,I:A,,,U:S,audio,shallow,evaluate,adaptable
+ER15b_1_4,,P:I,I:V,O:I,,U:G,image,general,evaluate,adaptable
+ER15c_1_1,How secure is your browsing?,P:I,I:A,,,,website,shallow,,adaptive
+ER15c_1_2,,P:S,I:A,O:I,Pr:A,U:G,video,deep,evaluate,adaptive
+ER15c_1_3,,P:I,I:V,O:D,,,image,shallow,analyze,adaptive
+ER15c_1_4,,P:I,I:V,,Pr:A,U:G,image,shallow,understand,adaptive
+ER15d_1_1,How secure is your browsing?,P:I,I:A,,,,website,shallow,,adaptable
+ER15d_1_2,,P:S,I:A,O:I,Pr:R,U:S,video,general,evaluate,adaptable
+ER15d_1_3,,P:S,I:A,O:D,Pr:R,,text,deep,understand,adaptable
+ER15d_1_4,,P:I,I:V,O:I,,U:G,audio,shallow,analyze,adaptable
+ER15e_1_1,How secure is your browsing?,P:I,I:A,O:I,Pr:A,U:S,text,general,Apply,adaptive
+ER15e_1_2,,P:I,I:V,O:I,Pr:A,U:S,audio,shallow,understand,adaptive
+ER15e_1_3,,P:I,I:V,O:D,Pr:A,,website,shallow,understand,adaptive
+ER15e_1_4,,P:I,I:V,O:D,,,text,deep,create,adaptive
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER16a_1_1,Week 5 quiz,P:I,I:A,,Pr:R,,text,shallow,Understand,none
+ER16b_1_1,Week 5 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER17a_1_1,Summary of Week 5,P:S,I:V,,,,image,shallow,,none
+ER17b_1_1,Summary of Week 5,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none

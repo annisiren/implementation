@@ -1,0 +1,234 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T7,When your defences fail,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:S,I:V,O:I,,,video,shallow,Understand,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,Identity theft,P:S,I:V,,,,video,general,Understand,adaptable
+ER2a_1_2,Identity theft,P:I,I:V,O:I,Pr:A,U:S,website,shallow,apply,adaptable
+ER2b_1_1,Identity theft,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,Loss of data,P:S,I:V,,,,image,shallow,,none
+ER3b_1_1,Loss of data,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER3c_1_1,Loss of data,P:I,I:A,O:I,Pr:A,U:S,text,general,Evaluate,none
+ER3d_1_1,Loss of data,P:I,I:A,,,,website,general,,none
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Risks of data loss,P:S,I:V,,,,image,shallow,,adaptable
+ER4a_1_2,Risks of data loss,P:I,I:V,O:D,Pr:A,U:S,image,shallow,understand,adaptable
+ER4a_1_3,Risks of data loss,P:S,I:A,O:I,Pr:A,,image,general,understand,adaptable
+ER4a_1_4,Risks of data loss,P:I,I:V,O:I,,U:G,text,deep,,adaptable
+ER4a_1_5,Risks of data loss,P:I,I:V,O:D,Pr:R,,video,general,evaluate,adaptable
+ER4b_1_1,Risks of data loss,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",none
+ER4c_1_1,Risks of data loss,P:I,I:A,O:I,Pr:A,U:S,text,general,Evaluate,adaptable
+ER4c_1_2,Risks of data loss,P:S,I:A,O:D,Pr:R,U:S,image,shallow,create,adaptable
+ER4c_1_3,Risks of data loss,P:I,I:V,,Pr:R,U:S,text,shallow,remember,adaptable
+ER4c_1_4,Risks of data loss,P:S,I:A,O:D,,U:G,text,general,apply,adaptable
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER5a_1_1,Laws and computers,P:S,I:V,,,,image,shallow,,none
+ER5b_1_1,Laws and computers,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER5b_1_2,Laws and computers,P:S,I:A,O:I,Pr:A,U:S,audio,shallow,evaluate,adaptive
+ER5b_1_3,Laws and computers,P:S,I:A,O:D,Pr:A,U:G,image,deep,remember,adaptive
+ER5b_1_4,Laws and computers,P:I,I:V,,,U:S,image,deep,evaluate,adaptive
+ER5c_1_1,Laws and computers,P:I,I:A,O:I,Pr:A,U:S,text,general,Evaluate,adaptable
+ER5c_1_2,Laws and computers,P:S,I:A,,Pr:A,,audio,general,understand,adaptable
+ER5c_1_3,Laws and computers,P:I,I:V,O:D,Pr:R,U:G,image,general,understand,adaptable
+ER5c_1_4,Laws and computers,P:S,I:A,O:I,Pr:R,U:G,website,deep,create,adaptable
+LO3b_1,,,,,,,,,,none
+ER6a_1_1,Data Protection,P:S,I:V,,,,image,shallow,,none
+ER6b_1_1,Data Protection,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER6b_1_2,Data Protection,P:I,I:V,O:D,Pr:R,,website,deep,create,adaptable
+LO3c_1,,,,,,,,,,none
+ER7a_1_1,The Investigatory Powers Act 2016 (IPA),P:S,I:V,,,,image,shallow,,adaptive
+ER7a_1_2,The Investigatory Powers Act 2016 (IPA),P:I,I:V,,,,website,deep,,adaptive
+ER7a_1_3,The Investigatory Powers Act 2016 (IPA),P:S,I:A,,Pr:A,U:G,text,general,understand,adaptive
+ER7b_1_1,The Investigatory Powers Act 2016 (IPA),P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER7b_1_2,The Investigatory Powers Act 2016 (IPA),P:S,I:A,O:D,Pr:A,U:G,video,general,,adaptive
+ER7b_1_3,The Investigatory Powers Act 2016 (IPA),P:S,I:A,O:I,Pr:A,U:S,audio,shallow,remember,adaptive
+LO3d_1,,,,,,,,,,none
+ER8a_1_1,The Computer Misuse Act 1990 (CMA),P:S,I:V,,,,image,shallow,,adaptive
+ER8a_1_2,The Computer Misuse Act 1990 (CMA),P:S,I:A,,Pr:R,U:S,audio,deep,create,adaptive
+ER8b_1_1,The Computer Misuse Act 1990 (CMA),P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER8b_1_2,The Computer Misuse Act 1990 (CMA),P:I,I:V,,,U:G,text,general,understand,adaptive
+ER8b_1_3,The Computer Misuse Act 1990 (CMA),P:S,I:A,,,,audio,general,apply,adaptive
+LO3e_1,,,,,,,,,,none
+ER9a_1_1,The Fraud Act 2006,P:S,I:V,,,,image,shallow,,adaptable
+ER9a_1_2,The Fraud Act 2007,P:I,I:V,,Pr:R,,video,deep,remember,adaptable
+ER9a_1_3,The Fraud Act 2008,P:I,I:V,O:I,Pr:R,,audio,deep,analyze,adaptable
+ER9a_1_4,The Fraud Act 2009,P:I,I:V,O:I,Pr:R,,website,deep,remember,adaptable
+ER9a_1_5,The Fraud Act 2010,P:I,I:V,O:D,Pr:R,U:G,image,general,analyze,adaptable
+ER9b_1_1,The Fraud Act 2006,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER9b_1_2,The Fraud Act 2007,P:I,I:V,O:D,,U:S,audio,deep,analyze,adaptable
+ER9b_1_3,The Fraud Act 2008,P:I,I:V,O:I,Pr:A,U:G,website,shallow,evaluate,adaptable
+ER9b_1_4,The Fraud Act 2009,P:I,I:V,O:I,Pr:R,U:S,text,deep,,adaptable
+ER9b_1_5,The Fraud Act 2010,P:I,I:V,O:I,Pr:A,U:G,text,shallow,analyze,adaptable
+LO3f_1,,,,,,,,,,none
+ER10a_1_1,Lawful Business Practice Regulations,P:S,I:V,,,,image,shallow,,adaptable
+ER10a_1_2,Lawful Business Practice Regulations,P:S,I:A,O:D,,,text,shallow,evaluate,adaptable
+ER10a_1_3,Lawful Business Practice Regulations,P:S,I:A,,Pr:R,U:G,audio,deep,,adaptable
+ER10b_1_1,Lawful Business Practice Regulations,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER10b_1_2,Lawful Business Practice Regulations,P:S,I:A,O:I,Pr:A,U:G,image,shallow,apply,adaptive
+ER10b_1_3,Lawful Business Practice Regulations,P:S,I:A,O:I,Pr:R,,image,deep,remember,adaptive
+ER10b_1_4,Lawful Business Practice Regulations,P:S,I:A,O:I,Pr:R,U:G,video,general,understand,adaptive
+ER10b_1_5,Lawful Business Practice Regulations,P:I,I:V,O:I,Pr:A,,video,shallow,understand,adaptive
+ER10c_1_1,Lawful Business Practice Regulations,P:I,I:A,,,,website,general,,adaptive
+ER10c_1_2,Lawful Business Practice Regulations,P:S,I:A,O:D,,,text,deep,understand,adaptive
+LO3g_1,,,,,,,,,,none
+ER11a_1_1,Cyber security and the law,P:I,I:A,,Pr:R,,text,general,Understand,adaptive
+ER11a_1_2,Cyber security and the law,P:I,I:V,O:I,Pr:R,U:S,image,deep,evaluate,adaptive
+ER11a_1_3,Cyber security and the law,P:S,I:A,,Pr:A,U:G,video,shallow,,adaptive
+ER11a_1_4,Cyber security and the law,P:I,I:V,,Pr:R,U:S,image,deep,understand,adaptive
+ER11b_1_1,Cyber security and the law,P:I,I:A,O:D,Pr:R,U:S,text,general,Apply,adaptive
+ER11b_1_2,Cyber security and the law,P:I,I:V,O:I,Pr:R,U:G,video,general,remember,adaptive
+ER11b_1_3,Cyber security and the law,P:S,I:A,,Pr:R,U:G,website,general,evaluate,adaptive
+ER11b_1_4,Cyber security and the law,P:S,I:A,O:I,Pr:R,,audio,deep,apply,adaptive
+ER11b_1_5,Cyber security and the law,P:S,I:A,O:D,,U:G,audio,general,understand,adaptive
+LO3h_1,,,,,,,,,,none
+ER12a_1_1,Cyber security in the EU,P:S,I:V,,,,image,shallow,,adaptive
+ER12a_1_2,Cyber security in the EU,P:S,I:A,O:D,Pr:R,U:S,video,general,apply,adaptive
+ER12a_1_3,Cyber security in the EU,P:S,I:A,O:I,,U:G,website,general,evaluate,adaptive
+ER12a_1_4,Cyber security in the EU,P:I,I:V,,,U:S,video,shallow,apply,adaptive
+ER12a_1_5,Cyber security in the EU,P:S,I:A,O:D,,U:G,website,shallow,evaluate,adaptive
+ER12b_1_1,Cyber security in the EU,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER12b_1_2,Cyber security in the EU,P:I,I:V,,,U:S,website,general,evaluate,adaptive
+ER12b_1_3,Cyber security in the EU,P:I,I:V,O:I,,U:G,audio,deep,understand,adaptive
+ER12c_1_1,Cyber security in the EU,P:I,I:A,,,,website,deep,,adaptable
+ER12c_1_2,Cyber security in the EU,P:I,I:V,O:I,Pr:R,U:S,image,general,understand,adaptable
+ER12c_1_3,Cyber security in the EU,P:S,I:A,O:I,Pr:R,U:G,audio,deep,understand,adaptable
+ER12c_1_4,Cyber security in the EU,P:I,I:V,,,U:S,text,deep,create,adaptable
+ER12c_1_5,Cyber security in the EU,P:I,I:V,,,,video,deep,create,adaptable
+ER12d_1_1,Cyber security in the EU,P:I,I:A,,,,website,deep,,adaptive
+ER12d_1_2,Cyber security in the EU,P:I,I:V,O:D,,U:S,text,shallow,understand,adaptive
+ER12d_1_3,Cyber security in the EU,P:S,I:A,,Pr:R,,video,shallow,apply,adaptive
+LO3i_1,,,,,,,,,,none
+ER13a_1_1,What laws apply in your country?,P:S,I:V,,,,image,shallow,,adaptive
+ER13a_1_2,What laws apply in your country?,P:I,I:V,O:I,,U:S,image,general,understand,adaptive
+ER13a_1_3,What laws apply in your country?,P:S,I:A,O:D,Pr:R,U:S,website,deep,,adaptive
+ER13a_1_4,What laws apply in your country?,P:I,I:V,,,,website,deep,remember,adaptive
+ER13a_1_5,What laws apply in your country?,P:S,I:A,,Pr:A,U:S,audio,shallow,,adaptive
+ER13b_1_1,What laws apply in your country?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER13b_1_2,What laws apply in your country?,P:I,I:V,,Pr:A,U:G,image,shallow,apply,adaptable
+ER13b_1_3,What laws apply in your country?,P:S,I:A,O:D,,U:G,video,shallow,,adaptable
+ER13c_1_1,What laws apply in your country?,P:I,I:A,,Pr:R,,text,general,"Apply, Analyze",adaptable
+ER13c_1_2,What laws apply in your country?,P:I,I:V,O:I,Pr:R,U:S,video,deep,remember,adaptable
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER14a_1_1,Who should you contact?,P:S,I:V,,,,image,shallow,,adaptable
+ER14a_1_2,Who should you contact?,P:S,I:A,,Pr:R,U:G,image,general,create,adaptable
+ER14a_1_3,Who should you contact?,P:S,I:A,O:I,Pr:R,U:S,image,general,understand,adaptable
+ER14a_1_4,Who should you contact?,P:S,I:A,O:I,Pr:R,,website,shallow,understand,adaptable
+ER14b_1_1,Who should you contact?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER14b_1_2,Who should you contact?,P:S,I:A,,,U:G,video,general,create,adaptive
+ER14b_1_3,Who should you contact?,P:S,I:A,,,U:S,audio,deep,,adaptive
+ER14b_1_4,Who should you contact?,P:I,I:V,O:D,Pr:R,U:S,text,general,analyze,adaptive
+ER14c_1_1,Who should you contact?,P:I,I:A,,,,website,general,,adaptable
+ER14c_1_2,Who should you contact?,P:I,I:V,,Pr:R,U:S,website,deep,understand,adaptable
+ER14c_1_3,Who should you contact?,P:I,I:V,O:D,,,website,shallow,,adaptable
+LO4b_1,,,,,,,,,,none
+ER15a_1_1,Getting your computer working again,P:S,I:V,,,,image,shallow,,adaptive
+ER15a_1_2,Getting your computer working again,P:I,I:V,O:I,Pr:A,,text,general,create,adaptive
+ER15b_1_1,Getting your computer working again,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Evaluate",none
+LO4c_1,,,,,,,,,,none
+ER16a_1_1,Recovering from a virus or other malware,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",adaptable
+ER16a_1_2,Recovering from a virus or other malware,P:I,I:V,O:I,Pr:R,U:S,audio,general,remember,adaptable
+ER16b_1_1,Recovering from a virus or other malware,P:I,I:A,,,,website,deep,,adaptive
+ER16b_1_2,Recovering from a virus or other malware,P:S,I:A,,Pr:R,U:G,text,general,,adaptive
+ER16c_1_1,Recovering from a virus or other malware,P:I,I:A,,,,website,deep,,adaptable
+ER16c_1_2,Recovering from a virus or other malware,P:S,I:A,,Pr:R,U:S,website,shallow,,adaptable
+ER16c_1_3,Recovering from a virus or other malware,P:I,I:V,O:D,Pr:R,,image,deep,understand,adaptable
+ER16c_1_4,Recovering from a virus or other malware,P:I,I:V,,Pr:R,U:G,audio,general,evaluate,adaptable
+ER16c_1_5,Recovering from a virus or other malware,P:I,I:V,,,,text,shallow,remember,adaptable
+LO4d_1,,,,,,,,,,none
+ER17a_1_1,Recovering from accidentally deleting a file,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",adaptable
+ER17a_1_2,Recovering from accidentally deleting a file,P:S,I:A,O:I,Pr:R,U:S,video,deep,analyze,adaptable
+ER17a_1_3,Recovering from accidentally deleting a file,P:S,I:A,O:I,Pr:R,,video,shallow,understand,adaptable
+ER17a_1_4,Recovering from accidentally deleting a file,P:S,I:A,O:D,,U:S,audio,shallow,evaluate,adaptable
+ER17a_1_5,Recovering from accidentally deleting a file,P:S,I:A,,,U:G,website,general,create,adaptable
+ER17b_1_1,Recovering from accidentally deleting a file,P:I,I:A,,,,website,deep,,adaptable
+ER17b_1_2,Recovering from accidentally deleting a file,P:I,I:V,,,U:S,audio,shallow,,adaptable
+ER17b_1_3,Recovering from accidentally deleting a file,P:S,I:A,O:D,Pr:A,U:G,text,general,analyze,adaptable
+ER17c_1_1,Recovering from accidentally deleting a file,P:I,I:A,,,,website,deep,,adaptable
+ER17c_1_2,Recovering from accidentally deleting a file,P:I,I:V,O:I,,U:S,audio,shallow,create,adaptable
+ER17c_1_3,Recovering from accidentally deleting a file,P:S,I:A,O:I,,U:G,text,general,analyze,adaptable
+ER17c_1_4,Recovering from accidentally deleting a file,P:S,I:A,O:I,,,text,general,remember,adaptable
+ER17c_1_5,Recovering from accidentally deleting a file,P:S,I:A,O:D,Pr:A,,video,deep,create,adaptable
+LO4e_1,,,,,,,,,,none
+ER18a_1_1,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",adaptive
+ER18a_1_2,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:I,I:V,,Pr:R,U:S,audio,deep,remember,adaptive
+ER18a_1_3,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:I,I:V,O:I,,U:G,video,general,create,adaptive
+ER18a_1_4,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:I,I:V,O:D,Pr:A,,image,deep,,adaptive
+ER18a_1_5,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:S,I:A,O:D,Pr:R,,video,deep,understand,adaptive
+ER18b_1_1,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:I,I:A,,,,website,deep,,adaptable
+ER18b_1_2,"Recovering from a lost computer, disk or flash memory drive containing confidential data",P:I,I:V,O:I,Pr:R,U:S,text,general,create,adaptable
+LO4f_1,,,,,,,,,,none
+ER19a_1_1,Recovering from an operating system failure,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Apply",adaptive
+ER19a_1_2,Recovering from an operating system failure,P:I,I:V,O:I,,U:G,image,general,apply,adaptive
+ER19a_1_3,Recovering from an operating system failure,P:S,I:A,O:D,Pr:A,,image,deep,evaluate,adaptive
+LO4g_1,,,,,,,,,,none
+ER20a_1_1,Making your information less vulnerable,P:S,I:V,,,,image,shallow,,adaptive
+ER20a_1_2,Making your information less vulnerable,P:S,I:A,O:I,Pr:R,U:S,audio,deep,understand,adaptive
+ER20b_1_1,Making your information less vulnerable,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER20b_1_2,Making your information less vulnerable,P:I,I:V,O:I,Pr:A,,audio,shallow,understand,adaptable
+ER20b_1_3,Making your information less vulnerable,P:I,I:V,O:I,Pr:A,,audio,general,analyze,adaptable
+LO4h_1,,,,,,,,,,none
+ER21a_1_1,Protecting your data for the future,P:S,I:V,,,,image,shallow,,adaptable
+ER21a_1_2,Protecting your data for the future,P:I,I:V,O:I,Pr:A,,video,deep,,adaptable
+ER21a_1_3,Protecting your data for the future,P:I,I:V,O:D,Pr:A,U:G,website,shallow,analyze,adaptable
+ER21a_1_4,Protecting your data for the future,P:S,I:A,O:D,Pr:A,,image,deep,,adaptable
+ER21a_1_5,Protecting your data for the future,P:I,I:V,,,U:S,text,shallow,apply,adaptable
+ER21b_1_1,Protecting your data for the future,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER21b_1_2,Protecting your data for the future,P:I,I:V,O:I,Pr:A,U:G,image,general,remember,adaptable
+ER21c_1_1,Protecting your data for the future,P:I,I:A,,Pr:R,,text,general,"Apply, Evaluate",adaptive
+ER21c_1_2,Protecting your data for the future,P:S,I:A,,Pr:A,U:G,audio,deep,apply,adaptive
+ER21c_1_3,Protecting your data for the future,P:S,I:A,O:I,,U:S,audio,deep,apply,adaptive
+ER21c_1_4,Protecting your data for the future,P:S,I:A,,,U:G,video,general,create,adaptive
+ER21c_1_5,Protecting your data for the future,P:I,I:V,O:I,Pr:R,U:G,website,shallow,analyze,adaptive
+LO4i_1,,,,,,,,,,none
+ER22a_1_1,Backup media,P:S,I:V,,,,image,shallow,,adaptable
+ER22a_1_2,Backup media,P:S,I:A,O:D,Pr:R,U:S,text,deep,apply,adaptable
+ER22a_1_3,Backup media,P:S,I:A,O:I,Pr:R,U:G,website,general,create,adaptable
+ER22b_1_1,Backup media,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO4j_1,,,,,,,,,,none
+ER23a_1_1,Remote backups,P:S,I:V,,,,image,shallow,,adaptable
+ER23a_1_2,Remote backups,P:I,I:V,O:D,,,website,shallow,create,adaptable
+ER23a_1_3,Remote backups,P:S,I:A,O:D,,,website,general,,adaptable
+ER23a_1_4,Remote backups,P:I,I:V,O:I,Pr:A,U:S,website,general,apply,adaptable
+ER23a_1_5,Remote backups,P:I,I:V,,Pr:A,U:G,website,general,create,adaptable
+ER23b_1_1,Remote backups,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER23b_1_2,Remote backups,P:I,I:V,,Pr:R,U:G,audio,shallow,understand,adaptable
+ER23b_1_3,Remote backups,P:I,I:V,O:D,Pr:R,,image,deep,,adaptable
+LO4k_1,,,,,,,,,,none
+ER24a_1_1,Do you backup your data?,P:S,I:V,,,,image,shallow,,adaptive
+ER24a_1_2,Do you backup your data?,P:I,I:V,O:D,,U:S,text,shallow,understand,adaptive
+ER24a_1_3,Do you backup your data?,P:S,I:A,O:D,,U:G,text,shallow,understand,adaptive
+ER24b_1_1,Do you backup your data?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER24b_1_2,Do you backup your data?,P:I,I:V,O:I,,U:G,video,general,,adaptable
+ER24b_1_3,Do you backup your data?,P:S,I:A,O:D,Pr:R,U:S,audio,shallow,apply,adaptable
+ER24b_1_4,Do you backup your data?,P:I,I:V,O:I,,,text,general,remember,adaptable
+ER24b_1_5,Do you backup your data?,P:I,I:V,O:D,,U:S,text,general,create,adaptable
+ER24c_1_1,Do you backup your data?,P:I,I:A,,Pr:R,,text,general,"Apply, Analyze",adaptable
+ER24c_1_2,Do you backup your data?,P:I,I:V,O:I,Pr:R,U:S,image,general,understand,adaptable
+ER24c_1_3,Do you backup your data?,P:S,I:A,,,U:S,website,deep,evaluate,adaptable
+LO4l_1,,,,,,,,,,none
+ER25a_1_1,Archiving data,P:S,I:V,,,,image,shallow,,none
+ER25b_1_1,Archiving data,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER25b_1_2,Archiving data,P:S,I:A,O:I,Pr:A,U:G,audio,deep,,adaptive
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER26a_1_1,Week 7 quiz,P:S,I:V,,Pr:R,,text,shallow,Understand,none
+ER26b_1_1,Week 7 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER27a_1_1,Summary of Week 7,P:S,I:V,,,,image,shallow,,none
+ER27b_1_1,Summary of Week 7,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+,Part 6,,,,,,,,,
+LO7a_1,,,,,,,,,,none
+ER28a_1_1,Further reading,P:I,I:A,,Pr:R,,text,shallow,Understand,none
+ER28b_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER28c_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+,Part 7,,,,,,,,,
+LO8a_1,,,,,,,,,,none
+ER29a_1_1,References,P:I,I:A,,Pr:R,,text,shallow,Understand,none
+ER29b_1_1,References,P:I,I:A,,,,website,deep,,none
+ER29c_1_1,References,P:I,I:A,,,,website,deep,,none

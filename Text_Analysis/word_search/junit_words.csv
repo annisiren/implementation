@@ -1,0 +1,16 @@
+label,bow_wt,bow_stem,bow_lem
+compar,,2.0,
+compare,2.0,,2.0
+creat,,3.0,
+create,1.0,,1.0
+design,1.0,1.0,1.0
+develop,,6.0,
+discus,,,1.0
+discuss,1.0,1.0,
+execut,,11.0,
+execute,5.0,,5.0
+implement,2.0,4.0,2.0
+list,4.0,4.0,4.0
+repeat,1.0,3.0,1.0
+test,49.0,66.0,58.0
+use,1.0,7.0,1.0

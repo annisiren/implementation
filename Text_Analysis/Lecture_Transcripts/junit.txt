@@ -1,0 +1,439 @@
+Test-Driven Development
+JUnit
+
+Click to edit Master text styles
+
+EECS 2311 - Software Development Project
+
+Second level
+
+Third level
+
+Fourth level
+
+Fifth level
+
+Tuesday, February 2, 2021
+
+1
+
+Unit Testing
+
+• Testing the internals of a class
+
+• Black box testing 
+
+• Test public methods
+
+• Classes are tested in isolation
+
+• One test class for each application class
+
+2
+
+Test – Driven Development
+
+• TDD is a software development approach 
+whereby you write your test cases before
+you write any implementation code
+
+• Tests drive or dictate the code that is 
+
+developed
+
+• An indication of “intent”
+
+• Tests provide a specification of “what” a 
+
+piece of code actually does
+
+• Tests are documentation
+
+3
+
+TDD Stages
+
+1. Write a single test.
+
+2. Compile it.  It should not compile because you have not 
+
+written the implementation code
+
+3.
+
+Implement just enough code to get the test to compile
+
+4. Run the test and see it fail
+
+5.
+
+Implement just enough code to get the test to pass
+
+6. Run the test and see it pass
+
+7. Refactor
+
+8. Repeat
+
+4
+
+JUnit
+
+• JUnit is a framework for writing and running 
+
+tests
+• Created by Erich Gamma (of Design Patterns 
+
+fame) and Kent Beck (creator of XP 
+methodology)
+
+• Uses Java features such as annotations and 
+
+static imports
+
+• We will discuss Junit 5 (the latest version)
+• Lots of JUnit 4 code out there, JUnit 5 is 
+
+backwards compatible
+• Include junit-vintage in your build path to 
+
+run JUnit 4 code
+
+5
+
+Terminology
+
+• A test fixture sets up the data (both objects and 
+
+primitives) that are needed for every test
+• Example: If you are testing code that updates an 
+
+employee record, you need an employee record to 
+test it on
+
+• A unit test is a test of a single class
+
+• A test case tests the response of a single 
+
+method to a particular set of inputs
+
+• A test suite is a collection of test cases
+
+• A test runner is software that runs tests and 
+
+reports results
+
+6
+
+Structure of a JUnit test class
+
+• To test a class named Fraction
+
+• Create a test class FractionTest
+import org.junit.jupiter.api.*;
+import static
+org.junit.jupiter.api.Assertions.*;
+public class FractionTest
+{
+
+…
+
+}
+
+7
+
+Test fixtures
+
+• Methods annotated with @BeforeEach will 
+
+execute before each test case
+
+• Methods annotated with @AfterEach will 
+
+execute after each test case
+
+@BeforeEach
+public void setUp() {…}
+@AfterEach
+public void tearDown() {…}
+
+8
+
+Class Test fixtures
+
+• Methods annotated with @BeforeAll will 
+
+execute once before all test cases
+
+• Methods annotated with @AfterAll will 
+
+execute once after all test cases
+
+• These are useful if you need to allocate and 
+
+release expensive resources once
+
+9
+
+Test cases
+
+• Methods annotated with @Test are 
+
+considered to be test cases
+
+@Test
+public void testadd() {…}
+@Test
+public void testToString() {…}
+
+10
+
+What JUnit does
+
+• For each test case t:
+
+• JUnit executes all @BeforeEach methods 
+• Their order of execution is not specified
+
+• JUnit executes t
+
+• Any exceptions during its execution are 
+
+logged
+
+• JUnit executes all @AfterEach methods 
+• Their order of execution is not specified
+
+• A report for all test cases is presented
+
+11
+
+Within a test case
+
+• Call the methods of the class being tested
+
+• Assert what the correct result should be with 
+
+one of the provided assert methods
+
+• These steps can be repeated as many times as 
+
+necessary
+
+• An assert method is a JUnit method that 
+
+performs a test, and throws an AssertionError if 
+the test fails
+• JUnit catches these exceptions and shows you the 
+
+results
+
+12
+
+List of assert methods 1
+
+• assertTrue(boolean b)
+
+assertTrue(boolean b, String s)
+• Throws an AssertionError if b is False
+• The optional message s is included in the 
+
+Error
+
+• assertFalse(boolean b)
+
+assertFalse(boolean b, String s)
+• Throws an AssertionError if b is True
+• All assert methods have an optional 
+
+message
+
+13
+
+List of assert methods 2
+
+• assertEquals(Object expected,
+
+Object actual)
+
+• Uses the equals method to compare the two 
+
+objects
+
+• Primitives can be passed as arguments 
+
+thanks to autoboxing
+
+• Casting may be required for primitives
+
+• There is also a version to compare arrays
+
+14
+
+Example: Counter class
+
+• Consider a trivial “counter” class
+
+• The constructor creates a counter and sets it 
+
+to zero
+
+• The increment method adds one to the 
+
+counter and returns the new value
+
+• The decrement method subtracts one from 
+
+the counter and returns the new value
+
+• An example and the corresponding JUnit test 
+class can be found on the course website 
+
+15
+
+List of assert methods 3
+
+• assertSame(Object expected,
+
+Object actual)
+
+• Asserts that two references are attached 
+
+to the same object (using ==)
+
+• assertNotSame(Object expected,
+
+Object actual)
+• Asserts that two references are not 
+
+attached to the same object 
+
+16
+
+List of assert methods 4
+
+• assertNull(Object object)
+Asserts that a reference is null
+
+• assertNotNull(Object object)
+Asserts that a reference is not null
+
+• fail()
+
+Causes the test to fail and throw an 
+AssertionError
+• Useful as a result of a complex test, or 
+
+when testing for exceptions
+
+17
+
+Parameterized Tests
+
+• Useful when repeating the same test case 
+
+but with different input parameters
+
+@ParameterizedTest
+@ValueSource(ints = { 1, 2, 3 })
+void testWithValueSource
+
+(int argument) {
+
+assertTrue(argument > 0 &&
+
+argument < 4);
+
+}
+
+18
+
+Testing for exceptions
+
+• If a test case is expected to raise an 
+exception, it can be noted as follows
+
+@Test
+void testExpectedException() {
+
+assertThrows(
+
+NumberFormatException.class,
+() -> {Integer.parseInt("One");}
+
+); 
+
+}
+
+19
+
+Ignoring test cases
+
+• Test cases that are not finished yet can be 
+
+annotated with @Disabled
+
+• JUnit will not execute the test case but will 
+report how many test cases are disabled
+
+20
+
+JUnit in Eclipse
+
+• JUnit can be downloaded from github
+
+• If you use Eclipse, as in this course, you do 
+
+not need to download anything
+
+• Eclipse contains wizards to help with the 
+
+development of test suites with JUnit
+
+• JUnit results are presented in an Eclipse 
+
+window
+
+21
+
+JUnit 4 vs. Junit 5
+
+• Some annotations have been updated
+
+• @BeforeClass
+• @Before
+• @AfterClass
+• @After
+• @Ignore
+
+@BeforeAll
+@BeforeEach
+@AfterAll
+@AfterEach
+@Disabled
+
+• assertThrows was introduced in JUnit 5
+
+22
+
+JUnit 5 other new features
+
+• assertAll() – tests a number of assertions 
+
+together
+
+• assertTimeout() – tests that a piece of code 
+
+will finish within a particular timeframe
+
+• Assumptions – Running the test case only if 
+
+the assumption holds
+
+• Many more! See link to documentation on 
+
+course website
+
+23
+
+

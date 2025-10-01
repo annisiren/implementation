@@ -1,0 +1,108 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T8,Cryptography,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:S,I:V,O:I,,,video,shallow,Understand,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,Information as an asset,P:S,I:V,,,,video,general,,adaptable
+ER2a_1_2,Information as an asset,P:I,I:V,O:I,Pr:R,U:G,audio,general,evaluate,adaptable
+ER2a_1_3,Information as an asset,P:I,I:V,O:D,Pr:R,U:S,website,general,remember,adaptable
+ER2a_1_4,Information as an asset,P:S,I:A,,Pr:R,,video,general,apply,adaptable
+ER2b_1_1,Information as an asset,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER2b_1_2,Information as an asset,P:S,I:A,O:I,,,text,shallow,apply,adaptable
+ER2b_1_3,Information as an asset,P:S,I:A,O:I,Pr:A,U:S,audio,shallow,remember,adaptable
+ER2b_1_4,Information as an asset,P:S,I:A,,,,video,shallow,evaluate,adaptable
+ER2b_1_5,Information as an asset,P:I,I:V,,Pr:A,U:G,image,deep,evaluate,adaptable
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,Your own information assets,P:S,I:V,,,,image,shallow,,adaptive
+ER3a_1_2,Your own information assets,P:S,I:A,,Pr:R,,text,shallow,analyze,adaptive
+ER3a_1_3,Your own information assets,P:S,I:A,,,,image,shallow,understand,adaptive
+ER3b_1_1,Your own information assets,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER3b_1_2,Your own information assets,P:I,I:V,O:I,Pr:R,U:S,image,deep,,adaptive
+ER3b_1_3,Your own information assets,P:S,I:A,O:I,Pr:R,U:S,website,general,understand,adaptive
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Risk analysis,P:S,I:V,,,,image,shallow,,adaptive
+ER4a_1_2,Risk analysis,P:I,I:V,O:I,Pr:R,U:G,video,general,analyze,adaptive
+ER4a_1_3,Risk analysis,P:S,I:A,O:I,,U:G,website,shallow,create,adaptive
+ER4a_1_4,Risk analysis,P:I,I:V,,Pr:A,,website,deep,understand,adaptive
+ER4a_1_5,Risk analysis,P:I,I:V,O:I,Pr:A,,image,deep,remember,adaptive
+ER4b_1_1,Risk analysis,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER4b_1_2,Risk analysis,P:I,I:V,O:D,,U:S,website,deep,create,adaptable
+ER4b_1_3,Risk analysis,P:I,I:V,O:D,Pr:A,U:S,video,shallow,analyze,adaptable
+ER4b_1_4,Risk analysis,P:S,I:A,O:D,Pr:R,U:S,audio,deep,remember,adaptable
+ER4b_1_5,Risk analysis,P:S,I:A,,,U:S,text,shallow,evaluate,adaptable
+ER4c_1_1,Risk analysis,P:I,I:V,,,,image,general,Understand,none
+LO2c_1,,,,,,,,,,none
+ER5a_1_1,Risk analysis in practice,P:S,I:V,,,,image,shallow,Understand,adaptable
+ER5a_1_2,Risk analysis in practice,P:I,I:V,O:D,,,website,general,evaluate,adaptable
+ER5b_1_1,Risk analysis in practice,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER5b_1_2,Risk analysis in practice,P:I,I:V,,,,audio,deep,evaluate,adaptive
+ER5b_1_3,Risk analysis in practice,P:S,I:A,O:D,,U:G,audio,general,understand,adaptive
+ER5c_1_1,Risk analysis in practice,P:I,I:V,,,,image,general,Understand,adaptable
+ER5c_1_2,Risk analysis in practice,P:I,I:V,O:I,,U:S,text,shallow,apply,adaptable
+ER5c_1_3,Risk analysis in practice,P:I,I:V,,Pr:A,U:S,text,deep,analyze,adaptable
+ER5c_1_4,Risk analysis in practice,P:I,I:V,O:D,,U:S,image,shallow,analyze,adaptable
+ER5c_1_5,Risk analysis in practice,P:S,I:A,O:I,Pr:A,U:S,website,general,remember,adaptable
+ER5d_1_1,Risk analysis in practice,P:I,I:V,,,,image,general,Understand,adaptable
+ER5d_1_2,Risk analysis in practice,P:I,I:V,O:D,Pr:A,U:S,audio,general,apply,adaptable
+ER5d_1_3,Risk analysis in practice,P:I,I:V,,Pr:R,,text,deep,remember,adaptable
+ER5d_1_4,Risk analysis in practice,P:S,I:A,O:I,Pr:R,U:G,audio,deep,,adaptable
+ER5d_1_5,Risk analysis in practice,P:I,I:V,,Pr:A,,video,deep,,adaptable
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER6a_1_1,Staying safe online,P:S,I:V,,,,image,shallow,,none
+ER6b_1_1,Staying safe online,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Analyze",none
+ER6c_1_1,Staying safe online,P:I,I:A,,,,website,deep,,none
+LO3b_1,,,,,,,,,,none
+ER7a_1_1,Fix your browser,P:S,I:V,,,,image,shallow,,none
+ER7b_1_1,Fix your browser,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Analyze",none
+ER7c_1_1,Fix your browser,P:I,I:A,,,,website,general,,none
+ER7d_1_1,Fix your browser,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Analyze",none
+ER7e_1_1,Fix your browser,P:I,I:A,O:I,Pr:A,U:S,text,general,"Apply, Create",none
+LO3c_1,,,,,,,,,,none
+ER8a_1_1,Risk management in practice,P:S,I:V,,,,image,shallow,,none
+ER8b_1_1,Risk management in practice,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO3d_1,,,,,,,,,,none
+ER9a_1_1,Protecting your information assets,P:S,I:V,,,,image,shallow,,none
+ER9b_1_1,Protecting your information assets,P:I,I:A,O:D,Pr:R,U:S,text,general,"Remember, Evaluate, Apply",none
+LO3e_1,,,,,,,,,,none
+ER10a_1_1,What should I do next?,P:S,I:V,,,,image,shallow,,none
+ER10b_1_1,What should I do next?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO3f_1,,,,,,,,,,none
+ER11a_1_1,Tracking a moving target,P:I,I:A,O:D,Pr:R,U:S,text,general,,none
+ER11b_1_1,Tracking a moving target,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER12a_1_1,What do you do now?,P:I,I:V,O:D,Pr:R,U:S,text,general,"Remember, Apply",none
+ER12b_1_1,What do you do now?,P:I,I:A,,,,website,general,,none
+ER12c_1_1,What do you do now?,P:I,I:A,,,,website,general,,none
+ER12d_1_1,What do you do now?,P:I,I:A,,,,website,general,,none
+LO4b_1,,,,,,,,,,none
+ER13a_1_1,Confessional,P:S,I:V,,,,image,shallow,,none
+ER13b_1_1,Confessional,P:I,I:A,O:D,Pr:R,U:S,text,general,Remember,none
+ER13c_1_1,Confessional,P:I,I:A,,,,website,general,,none
+ER13d_1_1,Confessional,P:I,I:A,,Pr:A,U:S,text,general,"Evaluate, Apply",none
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER14a_1_1,End-of-course quiz,P:I,I:V,,Pr:R,,text,shallow,Understand,none
+ER14b_1_1,End-of-course quiz,P:I,I:A,,Pr:R,,text,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER15a_1_1,End-of-course guide and round-up,P:S,I:V,,Pr:R,U:S,video,shallow,Understand,none
+ER15b_1_1,End-of-course guide and round-up,P:I,I:A,O:D,Pr:R,U:S,text,general,"Remember, Apply",none
+ER15c_1_1,End-of-course guide and round-up,P:I,I:A,,,,website,general,,none
+,Part 6,,,,,,,,,
+LO7a_1,,,,,,,,,,none
+ER16a_1_1,Next steps,P:S,I:V,,,,image,shallow,,none
+ER16b_1_1,Next steps,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER16c_1_1,Next steps,P:I,I:A,,,,website,deep,,none
+ER16d_1_1,Next steps,P:I,I:A,,,,website,deep,,none
+ER16e_1_1,Next steps,P:I,I:A,,,,website,deep,,none
+ER16f_1_1,Next steps,P:I,I:A,,,,website,deep,,none
+ER16g_1_1,Next steps,P:I,I:A,,,,website,deep,,none
+ER16h_1_1,Next steps,P:I,I:A,,,,website,deep,,none
+,Part 7,,,,,,,,,
+LO8a_1,,,,,,,,,,none
+ER17a_1_1,Tell us what you think,P:I,I:V,O:D,Pr:R,U:S,text,shallow,Understand,none
+ER17b_1_1,Tell us what you think,P:I,I:A,,,,website,general,,none

@@ -1,0 +1,104 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T4,Networking and communications,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:S,I:V,O:I,,,video,shallow,Understand,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,What is the internet?,P:S,I:V,,,,image,shallow,,none
+ER2b_1_1,What is the internet?,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+ER2c_1_1,What is the internet?,P:S,I:A,O:I,Pr:A,,audio,shallow,Understand,none
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,How data moves around the internet,P:S,I:V,O:I,Pr:A,U:S,video,general,Understand,none
+ER3b_1_1,How data moves around the internet,P:I,I:A,O:D,Pr:R,U:S,text,shallow,"Remember, Understand",none
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Introducing the datagram,P:S,I:V,,,,image,shallow,,none
+ER4b_1_1,Introducing the datagram,P:I,I:A,O:D,Pr:R,U:S,text,shallow,"Understand, Apply",none
+ER4c_1_1,Introducing the datagram,P:I,I:A,,,,website,shallow,,none
+LO2d_1,,,,,,,,,,none
+ER5a_1_1,Datagrams on the move,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER5b_1_1,Datagrams on the move,P:I,I:A,,,,website,shallow,,none
+ER5c_1_1,Datagrams on the move,P:I,I:A,,,,website,deep,,none
+ER5d_1_1,Datagrams on the move,P:I,I:A,O:I,Pr:A,U:S,text,general,Apply,none
+ER5e_1_1,Datagrams on the move,P:I,I:A,,,,website,deep,,none
+ER5f_1_1,Datagrams on the move,P:I,I:A,,,,website,deep,,none
+ER5g_1_1,Datagrams on the move,P:I,I:A,,,,website,shallow,,none
+ER5h_1_1,Datagrams on the move,P:I,I:A,,,,website,deep,,none
+LO2e_1,,,,,,,,,,none
+ER6a_1_1,Wireless networks,P:S,I:V,,,,image,shallow,,none
+ER6b_1_1,Wireless networks,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER7a_1_1,Is your private information really private?,P:S,I:V,O:I,Pr:A,U:S,video,general,Evalute,adaptable
+ER7a_1_2,Is your private information really private?,P:S,I:A,,Pr:A,,text,shallow,analyze,adaptable
+ER7a_1_3,Is your private information really private?,P:S,I:A,O:I,,U:G,text,shallow,remember,adaptable
+ER7a_1_4,Is your private information really private?,P:S,I:A,O:D,,,text,deep,remember,adaptable
+ER7b_1_1,Is your private information really private?,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Evalute,adaptive
+ER7b_1_2,Is your private information really private?,P:I,I:V,O:D,Pr:A,,audio,deep,create,adaptive
+LO3b_1,,,,,,,,,,none
+ER8a_1_1,Network security challenges,P:S,I:V,,,,image,general,,adaptable
+ER8a_1_2,Network security challenges,P:I,I:V,,Pr:A,U:S,text,general,create,adaptable
+ER8a_1_3,Network security challenges,P:S,I:A,O:D,,U:G,website,general,create,adaptable
+ER8a_1_4,Network security challenges,P:I,I:V,O:I,,U:G,audio,general,evaluate,adaptable
+ER8b_1_1,Network security challenges,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptable
+ER8b_1_2,Network security challenges,P:I,I:V,O:I,Pr:A,U:G,image,general,create,adaptable
+LO3c_1,,,,,,,,,,none
+ER9a_1_1,Encryption in wireless networking,P:S,I:V,,,,image,general,,none
+ER9b_1_1,Encryption in wireless networking,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO3d_1,,,,,,,,,,none
+ER10a_1_1,Using wireless networking securely,P:S,I:V,,,,image,shallow,,adaptable
+ER10a_1_2,Using wireless networking securely,P:S,I:A,O:D,Pr:A,U:G,image,shallow,analyze,adaptable
+ER10a_1_3,Using wireless networking securely,P:I,I:V,O:I,Pr:R,U:S,audio,deep,remember,adaptable
+ER10b_1_1,Using wireless networking securely,P:I,I:A,O:D,Pr:R,U:S,text,shallow,"Remember, Understand",adaptive
+ER10b_1_2,Using wireless networking securely,P:I,I:V,,,U:G,audio,deep,evaluate,adaptive
+LO3e_1,,,,,,,,,,none
+ER11a_1_1,Why we need standards on the internet,P:S,I:V,,,,image,shallow,,none
+ER11b_1_1,Why we need standards on the internet,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER12a_1_1,Introducing the TCP/IP protocols,P:S,I:V,,,,image,shallow,,adaptive
+ER12a_1_2,Introducing the TCP/IP protocols,P:I,I:V,,,U:S,website,deep,remember,adaptive
+ER12b_1_1,Introducing the TCP/IP protocols,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER12b_1_2,Introducing the TCP/IP protocols,P:S,I:A,O:D,,U:S,video,deep,analyze,adaptive
+ER12c_1_1,Introducing the TCP/IP protocols,P:I,I:V,O:I,Pr:R,U:S,image,general,Understand,adaptable
+ER12c_1_2,Introducing the TCP/IP protocols,P:I,I:V,O:D,Pr:R,U:S,audio,general,evaluate,adaptable
+ER12c_1_3,Introducing the TCP/IP protocols,P:S,I:A,,Pr:R,,website,shallow,create,adaptable
+ER12c_1_4,Introducing the TCP/IP protocols,P:I,I:V,O:I,Pr:A,U:G,image,deep,apply,adaptable
+ER12c_1_5,Introducing the TCP/IP protocols,P:S,I:A,O:D,,U:S,video,deep,evaluate,adaptable
+LO4b_1,,,,,,,,,,none
+ER13a_1_1,The internet protocol and IP addresses,P:S,I:V,,,,image,shallow,,adaptable
+ER13a_1_2,The internet protocol and IP addresses,P:I,I:V,,Pr:R,U:S,video,deep,understand,adaptable
+ER13a_1_3,The internet protocol and IP addresses,P:S,I:A,,Pr:R,U:S,text,general,evaluate,adaptable
+ER13a_1_4,The internet protocol and IP addresses,P:S,I:A,O:I,Pr:R,,video,general,apply,adaptable
+ER13a_1_5,The internet protocol and IP addresses,P:S,I:A,O:I,Pr:R,,audio,shallow,analyze,adaptable
+ER13b_1_1,The internet protocol and IP addresses,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER13b_1_2,The internet protocol and IP addresses,P:S,I:A,O:I,Pr:R,U:G,text,shallow,evaluate,adaptable
+ER13b_1_3,The internet protocol and IP addresses,P:S,I:A,,Pr:R,U:S,video,deep,evaluate,adaptable
+LO4c_1,,,,,,,,,,none
+ER14a_1_1,From numbers to names,P:S,I:V,,,,image,shallow,,adaptive
+ER14a_1_2,From numbers to names,P:I,I:V,O:I,,,text,shallow,understand,adaptive
+ER14a_1_3,From numbers to names,P:S,I:A,O:I,,,text,general,evaluate,adaptive
+ER14b_1_1,From numbers to names,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO4d_1,,,,,,,,,,none
+ER15a_1_1,The internet is not the world wide web,P:S,I:V,,,,image,shallow,,adaptable
+ER15a_1_2,The internet is not the world wide web,P:I,I:V,O:D,,U:G,audio,deep,understand,adaptable
+ER15a_1_3,The internet is not the world wide web,P:I,I:V,O:I,Pr:R,,text,deep,evaluate,adaptable
+ER15b_1_1,The internet is not the world wide web,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER15b_1_2,The internet is not the world wide web,P:I,I:V,O:D,,U:G,video,deep,understand,adaptable
+ER15b_1_3,The internet is not the world wide web,P:I,I:V,O:I,,,image,general,remember,adaptable
+ER15b_1_4,The internet is not the world wide web,P:S,I:A,O:I,Pr:R,U:S,website,general,analyze,adaptable
+ER15b_1_5,The internet is not the world wide web,P:I,I:V,,,U:G,audio,deep,apply,adaptable
+ER15c_1_1,The internet is not the world wide web,P:I,I:V,O:I,Pr:A,,audio,general,Understand,adaptable
+ER15c_1_2,The internet is not the world wide web,P:I,I:V,,Pr:A,,audio,general,evaluate,adaptable
+ER15c_1_3,The internet is not the world wide web,P:S,I:A,,Pr:R,U:G,video,general,analyze,adaptable
+ER15c_1_4,The internet is not the world wide web,P:I,I:V,O:I,Pr:R,,website,general,evaluate,adaptable
+ER15c_1_5,The internet is not the world wide web,P:S,I:A,O:I,Pr:R,U:G,text,general,remember,adaptable
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER16a_1_1,Week 4 quiz,P:I,I:A,,Pr:R,,text,shallow,Understand,none
+ER16b_1_1,Week 4 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER17a_1_1,Summary of Week 4,P:S,I:V,,,,image,shallow,,none
+ER17b_1_1,Summary of Week 4,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+ER17c_1_1,Summary of Week 4,P:I,I:A,,,,website,shallow,,none

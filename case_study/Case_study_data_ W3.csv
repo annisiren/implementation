@@ -1,0 +1,170 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T3,Malware,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:S,I:V,O:I,,,video,shallow,Understand,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,adaptable
+ER2a_1_1,Viruses,P:S,I:V,,,,image,shallow,,adaptive
+ER2a_1_2,Viruses,P:S,I:A,,,U:S,image,general,,adaptive
+ER2a_1_3,Viruses,P:S,I:A,,Pr:R,U:S,audio,deep,remember,adaptive
+ER2a_1_4,Viruses,P:I,I:V,O:I,,U:G,image,general,analyze,adaptive
+ER2a_1_5,Viruses,P:I,I:V,,Pr:A,U:S,video,deep,,adaptive
+ER2b_1_1,Viruses,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER2b_1_2,Viruses,P:I,I:V,O:D,,U:S,audio,general,apply,adaptive
+ER2b_1_3,Viruses,P:S,I:A,,Pr:R,,website,deep,analyze,adaptive
+ER2b_1_4,Viruses,P:I,I:V,,Pr:A,U:S,video,deep,analyze,adaptive
+ER2b_1_5,Viruses,P:S,I:A,,,U:S,audio,shallow,create,adaptive
+LO2a_2,,,,,,,,,,adaptable
+ER2a_2_1,Viruses,P:I,I:V,O:I,,U:G,audio,deep,evaluate,adaptive
+ER2a_2_2,Viruses,P:I,I:V,,Pr:R,U:S,video,shallow,,adaptive
+ER2a_2_3,Viruses,P:S,I:A,O:I,Pr:A,U:S,website,deep,understand,adaptive
+ER2a_2_4,Viruses,P:S,I:A,,Pr:A,U:S,video,general,analyze,adaptive
+ER2b_2_1,Viruses,P:I,I:V,O:I,,U:G,text,deep,understand,none
+LO2b_1,,,,,,,,,,adaptive
+ER3a_1_1,Worms,P:S,I:V,,,,image,shallow,,adaptive
+ER3a_1_2,Worms,P:S,I:A,,Pr:R,,image,general,analyze,adaptive
+ER3a_1_3,Worms,P:I,I:V,O:D,Pr:R,U:S,text,deep,analyze,adaptive
+ER3b_1_1,Worms,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptable
+ER3b_1_2,Worms,P:I,I:V,O:D,Pr:R,,image,deep,apply,adaptable
+LO2b_2,,,,,,,,,,adaptive
+ER3b_2_1,Worms,P:I,I:V,O:D,Pr:A,U:G,image,general,create,none
+LO2c_1,,,,,,,,,,adaptable
+ER4a_1_1,Trojans,P:S,I:V,,,,image,shallow,,adaptive
+ER4a_1_2,Trojans,P:I,I:V,O:I,,,audio,deep,understand,adaptive
+ER4a_1_3,Trojans,P:S,I:A,O:I,,U:S,text,shallow,,adaptive
+ER4a_1_4,Trojans,P:S,I:A,O:D,Pr:A,,text,general,evaluate,adaptive
+ER4a_1_5,Trojans,P:S,I:A,O:I,Pr:A,U:G,website,deep,evaluate,adaptive
+ER4b_1_1,Trojans,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+LO2c_2,,,,,,,,,,adaptable
+ER4a_2_1,Trojans,P:I,I:V,,Pr:R,,audio,deep,create,adaptable
+ER4a_2_2,Trojans,P:I,I:V,O:D,Pr:A,U:S,video,deep,create,adaptable
+ER4a_2_3,Trojans,P:I,I:V,O:D,Pr:R,,text,shallow,,adaptable
+ER4a_2_4,Trojans,P:I,I:V,,Pr:R,,website,shallow,apply,adaptable
+ER4b_2_1,Trojans,P:I,I:V,O:I,Pr:A,U:S,image,shallow,,adaptable
+ER4b_2_2,Trojans,P:I,I:V,O:D,Pr:R,U:G,text,deep,understand,adaptable
+LO2d_1,,,,,,,,,,none
+ER5a_1_1,Defining terms,P:S,I:V,,,,image,shallow,,adaptive
+ER5a_1_2,Defining terms,P:S,I:A,O:D,Pr:R,,audio,deep,,adaptive
+ER5a_1_3,Defining terms,P:I,I:V,O:I,,U:G,website,shallow,,adaptive
+ER5b_1_1,Defining terms,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER5b_1_2,Defining terms,P:I,I:V,,Pr:A,U:S,text,general,understand,adaptive
+ER5b_1_3,Defining terms,P:I,I:V,O:D,,U:S,image,shallow,,adaptive
+ER5c_1_1,Defining terms,P:I,I:A,,,,website,deep,,adaptable
+ER5c_1_2,Defining terms,P:I,I:V,,Pr:A,U:G,text,shallow,apply,adaptable
+ER5c_1_3,Defining terms,P:S,I:A,O:D,Pr:R,,audio,shallow,understand,adaptable
+ER5c_1_4,Defining terms,P:S,I:A,O:I,,U:S,text,deep,,adaptable
+ER5d_1_1,Defining terms,P:I,I:A,,,,website,general,,none
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER6a_1_1,How malware gets into your computer,P:S,I:V,,,,image,shallow,,none
+ER6b_1_1,How malware gets into your computer,P:I,I:A,O:D,Pr:A,U:S,text,shallow,"Understand, Analyze",none
+LO3b_1,,,,,,,,,,none
+ER7a_1_1,What is malware for?,P:S,I:V,,,,image,shallow,,none
+ER7b_1_1,What is malware for?,P:S,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+ER7c_1_1,What is malware for?,P:S,I:A,,,,website,general,,none
+LO3c_1,,,,,,,,,,none
+ER8a_1_1,Phishing,P:S,I:V,,,,image,shallow,,none
+ER8b_1_1,Phishing,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+LO3d_1,,,,,,,,,,none
+ER9a_1_1,Trapping phishing emails,P:S,I:V,,,,image,shallow,,none
+ER9b_1_1,Trapping phishing emails,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+LO3e_1,,,,,,,,,,none
+ER10a_1_1,Spotting a phishing email,P:S,I:V,O:I,,,image,shallow,,none
+ER10b_1_1,Spotting a phishing email,P:S,I:A,O:I,Pr:A,U:S,text,general,"Understand, Analyze",none
+ER10c_1_1,Spotting a phishing email,P:S,I:V,O:I,,,image,shallow,,none
+ER10d_1_1,Spotting a phishing email,P:I,I:A,,,,website,shallow,,none
+LO3f_1,,,,,,,,,,none
+ER11a_1_1,Emails are not the only phish,P:S,I:V,,,,image,shallow,,none
+ER11b_1_1,Emails are not the only phish,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO3g_1,,,,,,,,,,none
+ER12a_1_1,The role of malware in click fraud,P:S,I:V,,,,image,shallow,,none
+ER12b_1_1,The role of malware in click fraud,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO3h_1,,,,,,,,,,none
+ER13a_1_1,Botnets,P:S,I:V,O:I,,,video,general,,none
+ER13b_1_1,Botnets,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+LO3i_1,,,,,,,,,,none
+ER14a_1_1,Confessional,P:S,I:V,,,,image,shallow,,none
+ER14b_1_1,Confessional,P:S,I:A,O:D,Pr:A,U:G,text,shallow,Evaluate,none
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER15a_1_1,Keeping yourself protected,P:S,I:V,,,,image,shallow,,none
+ER15b_1_1,Keeping yourself protected,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptable
+ER15b_1_2,Keeping yourself protected,P:I,I:V,O:I,Pr:R,U:G,audio,shallow,,adaptable
+ER15c_1_1,Keeping yourself protected,P:I,I:A,,,,website,general,,adaptable
+ER15c_1_2,Keeping yourself protected,P:S,I:A,O:D,Pr:A,U:S,image,deep,remember,adaptable
+ER15c_1_3,Keeping yourself protected,P:S,I:A,,,U:S,video,deep,apply,adaptable
+ER15d_1_1,Keeping yourself protected,P:I,I:A,,,,website,general,,adaptable
+ER15d_1_2,Keeping yourself protected,P:I,I:V,O:D,,U:S,text,general,,adaptable
+ER15d_1_3,Keeping yourself protected,P:I,I:V,O:D,Pr:A,U:G,image,shallow,analyze,adaptable
+ER15e_1_1,Keeping yourself protected,P:I,I:A,,,,website,general,,adaptable
+ER15e_1_2,Keeping yourself protected,P:I,I:V,O:D,Pr:A,U:S,video,general,analyze,adaptable
+ER15e_1_3,Keeping yourself protected,P:S,I:A,O:D,Pr:A,,video,shallow,remember,adaptable
+LO4b_1,,,,,,,,,,none
+ER16a_1_1,Antivirus software,P:S,I:V,,,,image,shallow,,none
+ER16b_1_1,Antivirus software,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER16c_1_1,Antivirus software,P:I,I:A,,,,website,general,,adaptive
+ER16c_1_2,Antivirus software,P:S,I:A,O:D,Pr:R,U:G,video,deep,analyze,adaptive
+ER16c_1_3,Antivirus software,P:S,I:A,O:D,Pr:A,U:G,audio,shallow,evaluate,adaptive
+ER16d_1_1,Antivirus software,P:I,I:A,,,,website,general,,none
+ER16e_1_1,Antivirus software,P:I,I:A,,,,website,general,,none
+LO4c_1,,,,,,,,,,none
+ER17a_1_1,Installing antivirus software,P:S,I:V,,,,image,shallow,,none
+ER17b_1_1,Installing antivirus software,P:S,I:A,O:D,Pr:A,U:S,text,general,Evaluate,none
+ER17b_1_2,Installing antivirus software,P:I,I:V,O:I,,U:G,text,deep,understand,adaptable
+ER17c_1_1,Installing antivirus software,P:I,I:A,,,,website,general,,adaptive
+ER17c_1_2,Installing antivirus software,P:I,I:V,O:I,Pr:R,,video,shallow,remember,adaptive
+ER17c_1_3,Installing antivirus software,P:I,I:V,O:I,Pr:R,U:S,image,general,create,adaptive
+ER17c_1_4,Installing antivirus software,P:I,I:V,O:D,Pr:A,,audio,general,analyze,adaptive
+ER17d_1_1,Installing antivirus software,P:I,I:A,,,,website,general,,none
+ER17e_1_1,Installing antivirus software,P:I,I:A,,,,website,general,,adaptive
+ER17e_1_2,Installing antivirus software,P:I,I:V,O:I,Pr:R,,website,deep,evaluate,adaptive
+ER17e_1_3,Installing antivirus software,P:S,I:A,O:I,,U:G,image,shallow,remember,adaptive
+ER17e_1_4,Installing antivirus software,P:I,I:V,O:I,Pr:R,U:S,image,deep,evaluate,adaptive
+ER17e_1_5,Installing antivirus software,P:S,I:A,O:D,Pr:A,U:G,audio,general,evaluate,adaptive
+ER17f_1_1,Installing antivirus software,P:I,I:A,,,,website,general,,adaptive
+ER17f_1_2,Installing antivirus software,P:I,I:V,,,,audio,general,understand,adaptive
+ER17f_1_3,Installing antivirus software,P:S,I:A,,Pr:A,U:S,video,general,understand,adaptive
+LO4d_1,,,,,,,,,,none
+ER18a_1_1,Keeping your software up to date,P:S,I:V,,,,image,shallow,,adaptive
+ER18a_1_2,Keeping your software up to date,P:S,I:A,O:D,Pr:R,U:G,website,general,understand,adaptive
+ER18b_1_1,Keeping your software up to date,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER18b_1_2,Keeping your software up to date,P:S,I:A,O:D,,U:S,video,shallow,remember,adaptive
+ER18c_1_1,Keeping your software up to date,P:S,I:A,O:I,Pr:A,U:G,text,general,"Evaluate, Apply",adaptable
+ER18c_1_2,Keeping your software up to date,P:I,I:V,O:D,Pr:A,,website,deep,analyze,adaptable
+ER18c_1_3,Keeping your software up to date,P:I,I:V,,Pr:R,U:G,video,deep,apply,adaptable
+ER18c_1_4,Keeping your software up to date,P:I,I:V,,Pr:R,U:G,website,deep,apply,adaptable
+ER18c_1_5,Keeping your software up to date,P:S,I:A,O:I,Pr:A,U:G,website,deep,remember,adaptable
+LO4e_1,,,,,,,,,,none
+ER19a_1_1,End-of-life software,P:S,I:V,,,,image,shallow,,adaptive
+ER19a_1_2,End-of-life software,P:I,I:V,O:D,Pr:R,U:G,video,shallow,understand,adaptive
+ER19a_1_3,End-of-life software,P:S,I:A,O:I,Pr:R,U:S,video,deep,remember,adaptive
+ER19b_1_1,End-of-life software,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER19b_1_2,End-of-life software,P:I,I:V,O:I,,U:G,image,deep,understand,adaptable
+LO4f_1,,,,,,,,,,none
+ER20a_1_1,Sandboxes and code signing,P:S,I:V,,,,image,shallow,,adaptable
+ER20a_1_2,Sandboxes and code signing,P:S,I:A,,Pr:A,U:G,text,deep,apply,adaptable
+ER20a_1_3,Sandboxes and code signing,P:I,I:V,O:I,,U:S,audio,deep,apply,adaptable
+ER20a_1_4,Sandboxes and code signing,P:S,I:A,O:I,,U:S,website,general,apply,adaptable
+ER20b_1_1,Sandboxes and code signing,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER20b_1_2,Sandboxes and code signing,P:S,I:A,O:D,Pr:A,U:G,text,general,analyze,adaptable
+ER20b_1_3,Sandboxes and code signing,P:I,I:V,O:D,Pr:R,U:G,audio,deep,create,adaptable
+ER20b_1_4,Sandboxes and code signing,P:I,I:V,O:I,,U:S,text,general,apply,adaptable
+ER20b_1_5,Sandboxes and code signing,P:S,I:A,O:I,Pr:R,U:S,audio,general,evaluate,adaptable
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER21a_1_1,Week 3 quiz,P:I,I:A,,Pr:R,,text,shallow,Understand,none
+ER21b_1_1,Week 3 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER22a_1_1,Summary of Week 3,P:S,I:V,,,,image,shallow,,none
+ER22b_1_1,Summary of Week 3,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 6,,,,,,,,,
+LO7a_1,,,,,,,,,,none
+ER23a_1_1,Further reading,P:I,I:A,,,,text,shallow,Understand,none
+ER23b_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+,Part 7,,,,,,,,,
+LO8a_1,,,,,,,,,,none
+ER24a_1_1,References,P:I,I:A,,,,text,shallow,Understand,none
+ER24b_1_1,References,P:I,I:A,,,,website,deep,,none
+ER24c_1_1,References,P:I,I:A,,,,website,deep,,none

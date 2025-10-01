@@ -1,0 +1,6 @@
+label,bow_wt,bow_stem,bow_lem
+appli,,1,
+check,1.0,1,1.0
+develop,,1,
+test,,2,
+use,2.0,2,2.0

@@ -1,0 +1,933 @@
+Okay welcome to acs 2311. 
+Are used in the south of the development process in the industry and probably will help with your co-development event in other courses and as i'm sure you know that we do this in groups right so today i will be assigning the groups you'll meet your teammates and the idea is that of course everybody is expected to code. 
+Anything that can help you develop this you can use it right. 
+So it's really up to you and it's one of the decisions that you have to do as a team as to how to do this for example you could implement this project using a job fx graphics or you could use like a pdf library like i text pdf to actually produce pdf directly and just visualize the pdf on the screen will help you for example to print right so the the frameworks you will use for this is completely up to you you'll have to do some research to find. 
+Error:
+I should say that. 
+One of the things she has also talked to you play the music and this previous two of these previews will help you do that as well so you'll have i guess what you might call an oracle for what you need to do right if you're not sure okay this music sound like then you can actually use this offer to see exactly what is replicated. 
+Error:
+All right so as i said here maybe start by looking into the music xml documentation just to see what is format looks like and then will of course have lots of questions answered by next week. 
+What exactly we're going to be doing here. 
+Error:
+Okay. 
+So the workload for the course i would say it's. 
+The question to talk about the version of java the static or it actually does use some features from i think it's 14 is where textbooks going to introduced so i would recommend using 2017 for this project right now otherwise you'll have to probably be removed into something soon. 
+Error:
+Error:
+So i see. 
+A few things in the tattoo let me. 
+Yeah so in a sense the music to music xml parties are already there and we go as long as you get some milk to see music that's right that's basically what. 
+It is also the music and playing of that music representing the music xml file. 
+Error:
+So yes there is a list of the groups in class i will get to the groups in a second now some of you may be concerned that other courses required different versions of java right that is not a problem in eclipse you can select the different version for different projects so our projects can be in java 17. 
+Error:
+Error:
+All right i think i. 
+Cover the questions here all right so with regards to this then you know up to you and your team to sort of start studying a little bit this formats to to see what it all. 
+Okay no one of the things that i. 
+Alluded to you already is that. 
+We're going to sort of figure out exactly what you guys will be doing. 
+Throughout. 
+Alright so i've been texting lee. 
+2311 pretty much every year i provide this amount of. 
+Information of the beginning right so i don't know what idea of what the project will look like and then we refine what exactly the problem is going to be throughout the term right in a real software project that's what you get as well a customer has some idea of what they wanted but it's probably pretty vague and keeps changing all the time so we try to emulate as much as possible in this course not of course everything can be exactly like a real software project. 
+All right so you will be interacting with a customer every week my customers also me i'm the manager and the customer and also the course instructor so play a lot of roles by the idea is you talk to your customer you saw them what you have and you get their feedback and we have this interview. 
+Hopefully any other questions about 8 to 10 hours a week per student and that includes of course the lecture time and so on top of that. 
+So some of them are garments may change after the project has started new requirements may come up at some point in fact. 
+I always make sure to have your requirements after the meeting to keep things i understand for you guys as in a real project but of course since this is a course i do take care to ensure that those changes or whatever done cause a workload that will be way too big or whatever so it's something i always try to make sure to. 
+All right so we will try to come up with this requirements together as i mentioned in a couple weeks you'll submit the first draft of your requirements document so you should start thinking about writing a document as to what this. 
+Error:
+We'll have some discussion about that as well all right. 
+Error:
+But i think you'll find that. 
+Error:
+Definitely not the one that a lot of people fail for example or anything like that if you if you do if you put in your work to create to basically develop code and most of you are here are in software engineering development right so this is what you should really be into if you do it you will define. 
+I saw some things about discord. 
+And the majority of this will be work that you'll be doing as a group that starts with the question here the team out will be randomly assigned there were already been assigned that you will find out who your teammates are. 
+So. 
+You guys can go ahead and do that if you want i. 
+I use a discussion board. 
+On a class for communication with me of course you can have your own discord servers that's good stuff to do anyway but yeah the way i usually do this if you have questions about the project rather than email me put it on the discussion board so when i answer and say this is what you should do in this case then everybody. 
+Error:
+All right. 
+Let's move on to groups so i mentioned this already so groups are assigned to play by the manager which is me so they may be some students that come in later in the garage or drop out early so i may have to rearrange the groups again in my experience it doesn't happen too often but keep that in mind same as a result of the project but i would say that in the last five years so most likely. 
+Letting you have will be the thing you will have possibly a member here and there will change but but the team will pretty much be the same. 
+Error:
+Error:
+Later today. 
+Before we go and see our groups. 
+Something that you should have done already on monday that was a love task i guess is to have a github account right so if you haven't done this already then when you go to meet your teammates also take the time to create an account otherwise you'll be left behind in terms of getting started on the project so as i said also on the laptop make sure you create an account that sort of. 
+Error:
+Another said it would take seriously participation in this course so your participation in the project will be assessed based on your github activity at least partly right so if you have. 
+You're nowhere to be found then we're going to assume that you didn't do anything for this project. 
+We lost of course have some evaluation of peer evaluation within the team so we'll use that as well but basically it is imperative that you have an active account for your project to to receive full grades for your project all right so if you haven't done this do this please as soon as you go to meet your team in a second. 
+So let's let's do that then so if you are log into a class right now because you use your password to your connections you can find your group number. 
+If you click on participants then you should be able to see it so let me give everybody a minute or two to do this and then i'll continue with what we'll do with that next so yeah. 
+Find a good number and let me know if there's any problem someone cannot see it or anything like that. 
+Error:
+Error:
+Error:
+E-class. 
+Let me put it up here. 
+If you log into a class and here on the side. 
+Put up the bar if you don't have it. 
+Error:
+Click on participants. 
+On the sidebar then you should be able to see find yourself and it will say you could have. 
+Error:
+Error:
+So as a group is what you'll do most of the work for the course right that the big deliverable for the course is the project at the end the code and documents you will prepare on someone so it is up to you to make sure that you meet every week plan tasks for each member of the group put your card together or integrate your code as we say and so on so that will be the majority of those 8 to 10 hours there is some individual workers as well so every week i'll be posting some materials that you should study before the next level in this course so i won't be giving lexus like this. 
+Error:
+Error:
+Error:
+Error:
+Do we have. 
+Everybody. 
+Error:
+I'm going to assume i'll let you know let me know that you're still looking for it. 
+All right so it looks like most of you have it so what i'll do next is i'll create breakout rooms for all of you to sort of meet each other for like 10 maybe 15 minutes and i will continue with the lecture so once i open the breakout rooms then going to go to the room with the same number as your team all right and introduce yourself exchange contact information. 
+Get things going and get to meet your teammates. 
+Every week like today i'll be talking a lot but most of the week hopefully the discussion will be driven by your questions and things like that. 
+If you've never heard of this before it's the part where you say three things about yourself only two of them are true right and then the third one is a lie so your your teammates will have to sort of guess which one is the lie. 
+Just to give you i guess an idea of how that works i'll say something about myself so here's three things about myself i have three cats i also own three guitars you can see one of them in the back maybe also play like some days at least 3 hours of bridge so that's three things about myself so you guys can tell me what's wrong with you. 
+The cat is alive. 
+Error:
+Error:
+I'll make a little pole to see what people think is the actual liable. 
+Error:
+All right let's see if you guys can vote on this. 
+Error:
+Error:
+So every week there will there will be a laptop that i will post the laptop for example for the next week it's already posted i will show it to you in a second and the idea is well you should make sure you complete that laptop they will be toss in the lab on monday to help you with that and also myself in the lecture i work from now i will. 
+It's closed. 
+Error:
+Error:
+Error:
+I'll give you a couple of seconds before i show you the results. 
+Error:
+Error:
+Error:
+All right so here's the results of the poll. 
+What do you think i don't have three cards and actually do you play a little bridge it's sort of my mane remix but actually have way more than three guitars. 
+So let me get the directly into the slides then and i'll share my screen here. 
+Be able to answer any questions you may have. 
+Error:
+All right so hopefully you guys enjoy that part and you can have some fun with your teammates while you do the same thing in the meeting now one thing that you do have to sort of make sure you do before you come back is to decide who will create the github repository for the team all right so hopefully one of the team members names for the team because the person. 
+So i'll make sure to. 
+Desoto share that the github username so later on when we do this you can actually you know add everybody has collaborators right away but it would be nice if it can be done right away. 
+All right so. 
+Unless there's any questions at this point i will open up some breakout rooms for everybody to go in. 
+And meet each other. 
+Error:
+Error:
+Error:
+How about the laptop or of course about the project in general so there's a lot of the laptops are not being marked but i would say the pretty crucial for you to be able to actually do the project so it's important to to make sure you don't fall behind there's also as a talk about a second floor period. 
+The github repository. 
+Error:
+Error:
+I don't see any questions so i will give everybody about 15 minutes so. 
+Say 17 so at 12:30. 
+I will close the breakout rooms in call everybody back to so we can continue with the rest of the lecture all right so at this point the rooms have been open so feel free to join. 
+Photo with the same number as your team and i'll see you guys very soon. 
+Error:
+Error:
+Error:
+There's an individual park which is those four peer assessments that i mentioned already right so. 
+Error:
+Error:
+Hi professor good morning. 
+Hello. 
+I'm sorry i came a little late how do we know which group what's our group number. 
+Yeah so only class. 
+If you. 
+Go see any click on participants. 
+Then you should be able to see. 
+Error:
+The first one will be in a couple weeks as a team you'll have to prepare a requirements document for your. 
+I find yourself you should be able to see your group number. 
+Okay thanks so much. 
+Error:
+Error:
+Error:
+Error:
+I guess i can stop sharing for now. 
+Error:
+Is anybody that's still here having trouble finding their. 
+Error:
+System and then as an individual or you will receive all of his requirements documents to provide feedback on right so you'll be assessing your peers in that regard and later on you'll receive some code to evaluate and things like that so based on the quality of the feedback you provide you will be assessed in those assessments and as far as them 5% it's this year i'm doing something different with regards to this project. 
+Error:
+Error:
+Group. 
+If you are looking at the recording then you might want to fast forward 15 minutes at this point because nothing much will happen for a while. 
+Error:
+Error:
+Error:
+Christina i'm not sure what you mean by your question. 
+You going to the breakout rooms to the room that's the same as your group number. 
+Error:
+So i'll be giving out some bonus marks for any bug reports that i except for on the start recording that i provide for you so you can see there if you are actually find bags you'll get 1% of 100% brightness. 
+Error:
+Error:
+Or maybe i understand what you mean when you look here. 
+It should say. 
+The group number. 
+Error:
+Error:
+So if somebody cannot find it i can do it for yourself. 
+If it says no groups it means that you're probably not enrolled in the course at this point so i cannot try to. 
+To see if i can hug you to a group at the moment is everybody that's sort of left here not actually enrolled in the course. 
+44 time of you. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Okay let me see what i can find. 
+Error:
+Error:
+I joined my breakout room but there's no one in there. 
+But the individual evaluation is basically this 20% pure assessment the rest of the grades will be group based right so basically the project will be a meeting submission for it and the final submission for it and those will be the rest of your marks now just to be clear even though this is a group submissions doesn't mean that everybody in the group will get the same grade if you talk to some of the people that are taking this course i'm pretty serious about the project tomorrow. 
+Well maybe you're the lucky one that all the all the team is up today so i'm going to assume that those people will stop at the moment i just want to make sure yeah. 
+I hope i'm getting the room right but it's there's no one in there. 
+Thank you. 
+Error:
+Error:
+Error:
+Error:
+Herschel. 
+Is it the garcia kumar. 
+Error:
+You haven't participated fully and i'll talk about how we will assess that. 
+Error:
+Error:
+Meet each other. 
+Error:
+Error:
+Error:
+So i don't have that list handy right now but. 
+I suggest. 
+Error:
+I think it was muhammad that was talking to me right. 
+Maybe later. 
+Error:
+Error:
+Error:
+So basically her son and you're on the same team so. 
+Error:
+I don't know if muhammad is sort of away from the from his computer right now but you should basil go to to room 10 and. 
+So i will text muhammad isabella. 
+Error:
+Error:
+Error:
+Let's see. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+It's something that we actually. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Play serious. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+All right. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Yeah chris i saw that you were there by yourself i'll talk about that in a second. 
+Error:
+Error:
+Error:
+So this is all the sort of administrative stuff for the course the next thing i'll do is get into actually a project so before i do that let me see if there's any other questions you guys may have so. 
+So i think we're all back so hopefully you will you you had a chance to meet your teammates and get things organized with the github repository so i'll continue for now if somehow this didn't happen for you i know some of you whether by yourself unfortunately we do have about. 
+10 students that did not come to to this meeting so. 
+Hopefully things that will stop very soon otherwise of course i will be rearranging some of the things if you're by yourself on a team in my experience this happens when people don't have anybody in the first lecture but then everybody shows up anyway all right so let's see it's time to get it into. 
+The code a little bit so. 
+Is a couple things going to do before we do that one of the things that is actually new this year. 
+Is that. 
+Github moved to a different model in terms of accessing repositories safe from my clips where. 
+Password-based access is not allowed anymore so you have to actually create a personal access token to do that so will that first right so that's something that of course you could do later if you decide to do this while i was in the morning for this but. 
+Error:
+Basically if you go to your github account you'll have to do the following and have mine here. 
+550 is the title or unmute yourself to ask any questions at this point. 
+Error:
+So if you are actually going to settings. 
+Click on your. 
+Picture that or whatever it is. 
+Look at the settings. 
+Error:
+Down here there's developer settings. 
+Error:
+Go to that. 
+Error:
+Error:
+Is personal access tokens is the third option that you see. 
+I see you'll see that i already have one that i did for this course. 
+Basically what you need to do is click on generate new token. 
+Error:
+Once you do this. 
+You can select. 
+Error:
+Repo axis right that's all you need now you don't really need any of the other options. 
+Error:
+Error:
+The groups that will be 4 or 5 people. 
+Do the expiration date until the end of the course so you don't have to worry about it right so select. 
+Custom. 
+And make it until midnight or something like this to be safe. 
+And then generate the talking. 
+I want to do it here cuz i already have one. 
+But basically what this. 
+I will do for you is it will show you a token that string of characters. 
+And. 
+You're going to need that later on so copy that into your keyboard going to somewhere else so you can find out later and we're going to use that a little bit later today. 
+Error:
+Error:
+Error:
+Error:
+Make sure you do that if you not sure if you want to do this right now we can do it later you just won't be able to sort of immediately start using the github repository but that could be okay. 
+All right so that was one thing we need to do. 
+So everybody should have followed the process. 
+Error:
+The other thing. 
+Error:
+Error:
+To sort of put our information such as our name and email into eclipse so that. 
+You don't get to choose your own team i'll get to that in a second the teams have already been assigned so after we will present the project i'll let you guys meet your union today. 
+Those things are associated with various commits and that you will do tests to have an extra way to make sure that we can identify the work that you've done. 
+Error:
+Error:
+The way to do this is. 
+To open eclipse right so. 
+Monticello as well go ahead and do that. 
+I'm hearing some sound i don't know if someone is unmuted. 
+Mute yourself so. 
+So i'm going to open up eclipse here. 
+Error:
+Error:
+Error:
+An eclipse as it says here on the preferences version control. 
+Gay and configuration is what we want to go. 
+So i'm sure you know how to find the references it's a little bit. 
+Preferences celebrity. 
+On. 
+On windows but basically. 
+Down here. 
+Under. 
+Configuration is. 
+What we want to to sort of change so. 
+Error:
+User settings. 
+You basically need to put in this little. 
+Error:
+Email a name. 
+And those will be associated with any work you do. 
+I'm taking time to do this. 
+That way if you don't have this information here then. 
+Adding an entry. 
+The interface is a little bit. 
+Strange but basically you need to say user the email. 
+Error:
+Of course i already have that so. 
+It doesn't want to and then i'll write your email here and so. 
+Ada and then use the name and audio. 
+Error:
+Error:
+All right so once you have that you should be able to see something like what i have here. 
+Error:
+Getting on play appliance clothes will take care of that step as well. 
+Error:
+All right so let me give everybody like a few seconds to complete. 
+Play so. 
+Error:
+Let me know if you have any questions on how to do this. 
+Error:
+Error:
+Error:
+Error:
+Error:
+All right so do you have a request to repeat the last minute. 
+So. 
+I have the instructions here on the screen. 
+I have a slide about that after i might as well talk about it now i guess since you guys are asking questions. 
+Error:
+Under a course outline on our wiki page if you want. 
+Error:
+Error:
+Absolutely yes we do right now. 
+Error:
+You want to do this before you actually start doing any work for real. 
+But again the idea is. 
+Define. 
+Eclipse preferences. 
+Error:
+Error:
+And then under version control. 
+Navigate under configuration. 
+In the user settings. 
+You should add these two pairs. 
+Is there another email. 
+And then your email. 
+Love you use for github as well and then use the name. 
+And your actual name. 
+Error:
+So i was in a real software project right there's a manager of play the role of the manager so. 
+Error:
+And associates applying clothes. 
+Error:
+Error:
+Error:
+Error:
+If you already have that information in your eclipse preferences and it's correct then you don't have to do anything. 
+Yeah the weather. 
+Error:
+Only difference to me how you get to the preferences and after that should be the same but i don't have windows so i'm not. 
+They get to decide who you working with are you going to do that in the real world i do understand that sometimes and it's been very rare in this course there are problems with anything right so i do a lot of provide a lot of help and canceling on the side if that happens and then. 
+Absolutely sir. 
+Error:
+If. 
+If you have trouble this weekend look at it offline afterwards it's not necessarily a big deal right. 
+All right. 
+Error:
+Error:
+Error:
+Elena must be our name of the name. 
+When he says use a dog named that's just your name the garage sale name so let me just show it to you again. 
+Glad to say that in the vast majority of the time i'm able to resolve any issues you might have anything fairly amicably but sometimes you know. 
+As you can see. 
+When i do it here. 
+Error:
+Will know that this is you if you want. 
+Error:
+All right let's move on cuz i want to make sure we finish this before 1:30. 
+So now this is the part where. 
+We need one person from your team to do this right so as you can see this is the only slide. 
+Who's title says once per group everything else is old group members right so hopefully you chose someone that will create the. 
+Repository for the team so that person should sign in to the github account. 
+A problem with your teammates or whatever just talked to me and we'll work with it and see what what may need to happen but. 
+And go to this url which i'm going to put in the title as well to make it easy for you. 
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+Error:
+So this is the url. 
+You need to go to. 
+Error:
+In my experience that is very very rare situation where i need to actually intervene in another card. 
+And once you do this you'll see that. 
+This is basically where i have posted the starter code that everybody will use so it will be about another called fork. 
+And that's what you need to do right so this will create a copy of the repository on the your account and we will have exactly all the code. 
+Error:
+So this way on github you now have a copy of the starter code and of course later later on in a few seconds will bring it up to your computer right. 
+So go to this url click on fork then. 
+Yeah it's only one team members to do this part right you don't want to have five different copies of the code so i want to click the fork and copy the url of the 4th repository so once. 
+You click on fork then the url will not be getting out dot i don't know whatever your name is. 
+So. 
+Slightly different girl only willing to get your username will change everything else will be the same it's what you need to copy or i guess figure it out if he doesn't want to replace the username it will also. 
+Error:
+Okay now at this point before we move on to anything else you could. 
+Going to settings. 
+Error:
+Error:
+And. 
+Error:
+Error:
+Play chances a little bit. 
+So i have to figure this out now. 
+All right well. 
+Error:
+It was last year so let me figure this out and i'll let you guys know how to do this in a second. 
+Error:
+Error:
+I want to see the settings for the repository that's why i can't find it all right so under the settings for the depository. 
+Hopefully you can see. 
+Are there managed access. 
+Error:
+This is where you going. 
+When you click on add people. 
+You can add the usernames the github usernames of your teammates and then they will be considered also a collaborator for this project so they'll be able to push and pull code as well see you in a second. 
+Okay so let's say continue then with a project. 
+So. 
+Take the time if you if you have the username of everybody on your team please do that now it shouldn't take too long. 
+If. 
+Mostly can be done a little bit later as well. 
+Everybody should be able to get the code anyway but you won't be able to sort of code immediately if you know the collaborator. 
+All right so. 
+I'll give you a second to do this. 
+Error:
+Error:
+Error:
+Error:
+Go to your personal settings go to the settings of of the particular repository. 
+And then under managed access. 
+You can add your collaborators. 
+Error:
+Error:
+Error:
+So at this point then hopefully what you have is everybody can figure out the url of the only repository so. 
+Either. 
+Give it to you now or basically if you know their github username you can just replace it in the garage that i post it right the only thing that will change is the username. 
+What is not going to be mine it's going to be theirs. 
+You guys have already seen our. 
+Error:
+Collaborators and have the url they need to work with. 
+430 + 3 and then i'll continue so i'll give you guys a second to do this. 
+Error:
+I'll continue. 
+Error:
+Error:
+All right so hopefully we have now is. 
+There is a repository for your group everybody knows the url for it and you have been added as collaborators if something happens if this sort of you can manage this at this point i'll be very happy to have a figure this out at the end of this lecture so we'll do that then instead but at this point i'll go on. 
+Error:
+Play glass page all right it's here and you may have noticed that there is a link over here with texas to the wiki page for the course so the way our structure the online presence of the course is a combination of any class page and this weekend so basically all the static content for the course is on the wiki. 
+So basically now it's time for everybody in the team to sort of download if you want that code. 
+Into into their own machine. 
+Error:
+What will do is an eclipse. 
+You can actually. 
+To the following. 
+All right so under the file menu. 
+Import. 
+So we're going to import and then on the gate you're going to go with projects from get right. 
+Error:
+Anything that you may need to sort of login for such as finding group membership or something like that will be on the 8:00 so at the top here i say exactly what day is going to be used for the course announcements the discussion forum you guys can post questions about the project will be here and you're already found the zoom meeting here and once assignments and. 
+Error:
+Error:
+Then we're going to close in your eye. 
+Right and this is what you need the repository. 
+And if you have that url actually in your keyboard it will sort of fill it in directly here. 
+Error:
+Otherwise you'll have to put it in right so this of course is using my own copy since it didn't work myself here but. 
+Error:
+All you need is the same thing here except. 
+Error:
+Project submissions are in play then i'll have the links here as well. 
+Error:
+Error:
+I want to hear doing this myself she's obviously i don't want to sort of get another copy of the same code. 
+So i can see here but basically all you need to do after this is click next and. 
+Clicking. 
+Find another click and finish. 
+And that should actually create a project for yourself. 
+Error:
+In eclipse. 
+So let's see if we can try to do this and see if we run into any problems right now so that that's definitely important for sure. 
+But. 
+I want you that whoever created the repository should be able to do this. 
+No problem but everybody else should as well if they have the right url. 
+Error:
+Error:
+What time you will see in eclipse once you complete this. 
+Steps is basically a new project will be created. 
+As you see your minds in already have it here. 
+The project name will be talked to xml on g14 right so that is actually. 
+Group 14 from last year are the students that actually created the first version of this code and then of course i updated as well before giving it to you. 
+So you should be able to see something like what's on my screen. 
+Can i get my check going. 
+There's two parts to the spades on you. 
+Error:
+Error:
+Error:
+So the question i have here is about the lecture pdf i assume you mean the slides right so the slides are actually already there if you look under course outline on the wiki page. 
+I've already been posted this lights. 
+You can get them now and so to follow along from there if you prefer. 
+Error:
+Error:
+All right can i get it any indication whether some of you at least have managed to get the project into eclipse. 
+Error:
+Will need to make sure you're aware of their is. 
+I say couple yeses. 
+Error:
+Error:
+Error:
+I'm going to discuss next in terms of resolving some of the errors are you guys see so let's see if that will help and then. 
+Will not be happy to sort of help everybody at the end of the lecture to to resolve any issues that may have. 
+Error:
+From what i've seen the. 
+Error:
+I'll be very happy to help everybody get there by the end of the day if you want. 
+The project. 
+Error:
+Now the next thing. 
+Error:
+Here is talk about gretel right so that's something that maybe new to some of you so that's what i'll talk about next so greatly. 
+Build automation tool. 
+Error:
+That many software projects around the world actually used to automate tasks related to deployment of software right now making sure that everybody in a in a distributed. 
+Development team. 
+Can build the system the same way right and can get all the libraries they need the right versions of this libraries compile everything. 
+Error:
+Error:
+Error:
+It's actually can do a lot more than this but for our purposes this is the main reason why we want to do this. 
+Gradle does come install with the latest version of eclipse. 
+So unless you have a really old version of eclipse you should have it. 
+Marketplace. 
+All right so what does that mean there's a couple things to. 
+To make sure we sort of. 
+Figure out i have something here that. 
+Error:
+We can go through together. 
+But first there's a course outline. 
+The first one is about looking at some of the gretel files it's not really critical at this point to to see the build folder but also to you very quickly. 
+Error:
+As you can see here i have a bill folder. 
+Error:
+You may not be able to see that in your eclipse that's because. 
+Maybe the filters they have are set up differently so if you click on those little triangles here sorry the three dots here you'll see that i have the greater bill for the setup here to to actually so. 
+Error:
+If you click on filters. 
+Then uncheck the greater bill folder from here and then you'll be able to see that as well. 
+So that's one thing. 
+I'll get to that first so the coastline outline is basically what i will be passing all the material for the course so what you see here is already the material for next week. 
+But it's not super critical at this point. 
+The other way is there is this great old tasks view that we're going to use in a second. 
+Error:
+And you may not see that immediately as well. 
+I just said here you have to go to. 
+Windows show view. 
+Other gradle gradle tasks to talk to bring it up right so. 
+Error:
+Another window menu show view. 
+Other. 
+Positive slides and there's some things on gates for for you guys to study and so on the laptop. 
+And the great old greater tasks if you click on this then you'll see that view. 
+Are you on the screen. 
+Error:
+No with the ghosts of the great all set up that could be a few preferences that actually don't have that in the slides some of the issues i see. 
+Error:
+How to do possibly with those so. 
+Add a preferences. 
+Error:
+Are the purposes in eclipse there's a creator. 
+Section right. 
+Hey siri as well and i also have a set of weekly goals to for you to make sure you're on track with the project right so if you need to know what is the study material what is the laptop and whatever it's all on the course outline. 
+So are the prices cradle i would recommend selecting a specific gradle version. 
+And 733 is the latest one which is what i use for this system so. 
+If you select that you might be able to resolve some of the issues that you guys have been posting all the time so make sure to use 733 and that should be resolving some of these. 
+Error:
+Toilet. 
+Another thing is of course making sure you have java 17. 
+Alright so. 
+Error:
+Again. 
+Improvises. 
+And the other thing of course is the project so this is where the description for the project can be found and of course we are going to. 
+Java. 
+Error:
+Install. 
+Jerry. 
+You so make sure that you have. 
+1117 selected. 
+Error:
+7015 don't really use those too much anymore. 
+If you want. 
+Or if you want to keep it as your default then. 
+Let me find that throughout the term. 
+You have to make sure that your project build path then. 
+June 17th so either make jello 17 in the default jerry for you or in the bill path. 
+Error:
+Error:
+So for the software for the project. 
+Go figure the build path. 
+Then you can set up. 
+How about 17 for this particular. 
+Error:
+I'll help everybody that has issues with that as well for now if you have java 17 then. 
+Find nice. 
+Okay so what is the project for this time it's actually a continuation of the project we had last year. 
+Remove some of those dishes it does take a while at the beginning to set things up right and if you're running into anything like that then i'll be happy to help. 
+Error:
+All right. 
+One last thing you might want to try to resolve some of the decisions with cradle is if you right click on your project. 
+There's a gretel menu here. 
+Play to the first grader project. 
+Error:
+Codes to make sure that. 
+Everything is up to. 
+Error:
+So the idea here is that what students to do last year is to to build the system to actually help someone who is trying to play a particular piece of music they say on a guitar or drums and often anyway you can find out the internet is what's called text tablatures of these. 
+So this is something she can try to hopefully get this to work. 
+And if not. 
+Error:
+I hope you guys do that java 16 i see a question that should be fine i don't i'm not using any java 17 specific features in the code. 
+So if you have that maybe you'll be okay. 
+Error:
+Okay. 
+All right so now let's let's hope that this is a result what do we actually do with all this but basically a greater is. 
+All has to do with this little file here go build the great. 
+Giants woodside you can see here he has a lot of things in it that we're going to talk about some of those things later in the course. 
+How far to play a song so i have some examples down here. 
+But the. 
+Reason for security is this dependent. 
+Alright so all the libraries that i'm using. 
+Am i cold and it was quite a few. 
+I actually specified exactly here. 
+With the url the name of the library and the version of the library that i'm using. 
+So this means that all of you will actually get to compile this code with the same exact versions of these numbers that i used which is. 
+Can be very important on any fact i'm using this voice text effects library. 
+And i'm using inversion 0.10 if you use the latest version of this which is 1.75. 
+Greater tells us exactly which version of the library to use for the for the code to work. 
+Error:
+Error:
+Error:
+Error:
+But everything else you do with great early is you specify a number of different tasks that you can do with this piece of code with this system. 
+Error:
+You can actually go to the gradle to ask you. 
+And there's a whole bunch. 
+Tuscarora the build you kind of sort of build the system that will. 
+Actually compile the code ronald your tests possibly see things into jar files or whatever you specified and. 
+Take care of all of that and then under application you can actually run your code from this task so when you use gradle as. 
+Something that looks like this. 
+You don't actually run the code by sort of going to the main class and say. 
+Rana. 
+Error:
+Really depends on how you how exactly you have set up eclipse and if you have the right libraries in the right place it could be very messy for the distributed team to get this to work correctly gradle everything runs on. 
+A separate virtual machine for gradle which uses their rights and so on as you specified in the greater file in the build file and hopefully then it will work exactly the same for you as it does for me that's the idea right i've used this the last few years in this course and once we get over the initial possible it's a very useful tool and i think you'll find that useful also for your for your team. 
+All right. 
+Going back to my slides here make sure don't forget anything. 
+Alright so we have the bill the greatest song. 
+Groovy to specify the necessary task. 
+I definitely don't claim to be an expert in groovy by any stretch but we will use what's in there and will my modifier for a little bit later in the course. 
+Tell you how to play this is just an example. 
+Around your tests. 
+Error:
+In the application to ask you if you can use around. 
+To talk to you on. 
+Error:
+This. 
+Error:
+So i'll definitely help you resolve those. 
+Right after the lecture if you want. 
+Error:
+What notes to play on guitar. 
+Double click on this phone tasks. 
+Error:
+Error:
+Hopefully you can see the window that came up. 
+Error:
+On the screen. 
+Know before i get into that. 
+Under the console window i can see if anything is going wrong. 
+No nothing right here means that everything is running fine so everything compiled as you can see here. 
+And. 
+Error:
+The application is running. 
+So so this is the the starter code running then. 
+What can you do with this so let me give you a little bit of a demo to get things started. 
+Error:
+Let me go to wikipedia and get that example. 
+I thought that was talking about earlier right so here's an example of. 
+Text dad i'll just copy and paste it here right. 
+Error:
+And the system has no sort of parsley's figured out the thing what's saying the input and created actually the music come out right so i can sell the music xml. 
+Error:
+All right so what parts of the drum kit. 
+Mary so this is what an example of music looks like it's like xml. 
+Raiders tags and containing other tags and there's attributes for these things and so on. 
+All of those things of course we'll have to sort of figure out a little bit in order to do a project right so that's why. 
+One of the first things for you to do is to. 
+Go through the documentation of the tutorial from youtube xml that i posted and of course look at some of these example outputs to see how the correspond. 
+Error:
+The way to help you guys along my way. 
+Error:
+If i close this i can also save this into a file. 
+Right but really what we want to do in this course this year is make sure that when i click on this previous hit music button. 
+Error:
+I actually see this as. 
+Error:
+If i click now nothing will happen because of course i haven't done the project for you but if we go back to eclipse we'll see that the only thing has happened is. 
+Basically there's a system of print line preview button clicked and that's all that this does for the moment so really your job is to go to the part of the code. 
+Error:
+Princess. 
+And. 
+You know implement from there. 
+Error:
+Error:
+All right. 
+Error:
+Let me just finish up here by giving you an example of what the album might look like right so i can save the music from el file. 
+I'm not going to worry about it title and artist for this piece but let's say i say demo. 
+Error:
+All right so save it on my desktop sir. 
+Error:
+If i quickly go to my desktop then we'll see that there's a music xml file here i already have installed new score which is. 
+Play disco pop in my machine so i'll just double click on it to to to see what this look. 
+Error:
+Takes a while to to actually open up it's pretty heavy. 
+All right so this is the visualization of this right so as you can see. 
+Error:
+Error:
+It's actually not. 
+Error:
+Alright so. 
+Hopefully the code that created the music xml extracted information correctly from the text and now your sort of read that music xml and produce this kind of thing. 
+In fact i'm not sharing my son now but if i could play i can't even hear what this sounds you can try that on your own if you want. 
+Error:
+Error:
+Alright so that's the idea in a sense. 
+As a starting point as a starting goal for you guys the next couple weeks is can i actually. 
+Looks like as you might imagine xml with tags and attributes and elements and things like that and sort of describes the same piece of music in a more formal kind of way. 
+Error:
+Put that. 
+On the screen. 
+When i click on this button. 
+Bring up a new window and it shows me this for now that will be your first call. 
+This is a very simple example there's lots of other issues to worry about but as the first task. 
+Error:
+That could be a good thing to do. 
+Error:
+Error:
+So i haven't been here for you about the documentation for music smell like you should probably go through during the next week to sort of start using. 
+Another example. 
+Let me get the. 
+The drum tab as well. 
+All right go to my app. 
+All right so i went to the music at some elko's you won't be able to see the difference but if i save it. 
+Take me to say demo too. 
+I love this and this is what i want. 
+Looks like so this is an example of a drumstick music that corresponds to. 
+Do they. 
+Error:
+Start figuring out what you're doing this project all right so the starter code i will provide and we'll see we'll look at that later today is actually one of the projects from last year i picked one of course i was really good and provided the features that i wanted for this project so i talked about that i sort of. 
+Error:
+This is not exactly as corresponding as the guitar run right it's not immediate to see exactly how this works. 
+But thankfully we have this to tell us this is what it's supposed to look like. 
+And i'll give you lots of other information to help you along the way and so you should know what the expected output is going to be. 
+Just to quickly show you the other to. 
+Or maybe one of the other people. 
+Error:
+This is an online music get some more previewer. 
+You can see some examples of other things that you could do with your music xml music xml is actually often used for like. 
+Scores for call orchestra you can do things with 30 different instruments are playing at the same time we're going to we're not going to have to worry about this we're just doing one instrument that's the tablets report and that's it right so if i take. 
+It works with it for a few weeks to just to make it to the appointment that you say today and i'm providing in as a starter cover so the system already. 
+Error:
+This music x3 i get into this page. 
+Error:
+We did on your score so different previews will sell things a little bit differently well this is where. 
+Talking to your customer will sort of help you decide what exactly does the customer want do they prefer this style or that style. 
+Error:
+Some cases this year will sell things better and in other cases the other will be better so for things like this that i'm not exactly the same then you should definitely talk to your customer. 
+To see what they actually want. 
+Okay so that's the idea but as you can see if i'm working with this and i'm making changes and i want to see the result then if i make a little change here i wanted to put also put this here as an ax all right then. 
+This is i made a change to my music right now i have to save then double click it and see it on a different application and then come back here it's really very annoying so that's why we want to have. 
+Does what you were supposed to do last year so he takes this input we'll see the first running a second in a few seconds and. 
+Error:
+What's more user-friendly than using this external viewers if you want. 
+All right. 
+That's basically. 
+A quick demo of the app. 
+All right so i just closing here for now. 
+Error:
+Go back. 
+To my slides. 
+Error:
+Increase the music xml music smell is actually not particularly human readable but it is formal format so obviously musicians don't necessarily want to look at that it's not helpful for a musician so what will do this year is actually. 
+Error:
+Error:
+Error:
+We have. 
+Miss preview bottom clicked is the. 
+What happens when you actually click on the bottom right now you can look for it in the code to see what happens but i'll say to you i mean. 
+Error:
+Easy way to search for it. 
+Jesus. 
+Put this out here and see where is that thing called so. 
+Build a system that visualizes the musical output into what a musician might expect so basically she said music either for a guitar in the tablet to form or for drums right. 
+If you do that you'll see that is exactly one month in the cold where there's a system out print line of this right so. 
+Error:
+Error:
+Part of the greek god of course that responds to the clicking of the preview button. 
+Identity only does right now is system of print line. 
+Error:
+To say that if you if you're on this method then you actually get the whole music xml output as a string and this would allow you to just implement your project completely independently of my code if you want to do that you can just take the string and give it to some other class that you'll create that will pass it and figure it out and create windows and put the graphics on it and things like that you could also grab information. 
+Error:
+Looking at the questions to the chart yes this letter regarding will will be. 
+On the course outline. 
+So i'll give you some examples once we run. 
+Later on right so all the material that is static like it's not really related to you logging in as your account will be on the weekend so the study material that i've already posted already have everything there that says a video will be added here as soon as it's available right so in a couple of hours i'll put the video after as well. 
+In terms of a tutorial video for gradle. 
+I can post some information if you want but for now in a sense we'll talk a bit more about greater a bit later on but for now all you need to do with cradle is basically run. 
+And he will just run the code for you right as we start working with it and figure things out i'll show you how to debug with greater right how to build and around your test cases and so on but really there's very little changes you need to make to your building at this point right now not in fact if you decide i want to use this library for my code then of course you will have to add this as a dependency there and i'll talk about that in the coming weeks. 
+Error:
+Yeah as i said for sure i will i'll be here for as long as you guys need me to help resolve any problems. 
+So don't worry about it i'll help everybody that needs after lecture will finish in a couple minutes and i'll meet you i'll help you get there right so i'll go right now is to make sure everybody has a copy of historical in their machine. 
+Now runs without errors and as you'll see your task. 
+For the next week is to basically. 
+Stop learning a little bit about get and push and pull right. 
+Error:
+The the software. 
+What is that very quickly you'll see this on in the study material but basically now that you have the first version let's say you make some changes and you want to sort of tell your teammates about it right then. 
+Error:
+Once you have some changes then you make a commit to your local machine and you say okay this is a good chance i want to save it. 
+Error:
+And then. 
+You push to the online repository so you say okay i want to talk about it so i push it so now and your commit is available today so now everybody else can as we say pool. 
+From the report story and see the changes that you made right so the new version will be available there you'll get it. 
+And look what you meant did if you want. 
+Which is why i said here this is the last real slide for this lecture is before you start making any changes to the code make sure you pull first right maybe some of your teammates already added more things to the code you want to start from the point that they have reached right we'll talk in the next week and the week after what happens if two different people change the same part of the code how to resolve this conservations we'll figure it out for now just understanding this idea that when i'm going to work on this first time pool make sure i have the latest version. 
+This is our goal to sort of start getting this weekend and all the study material for next week is basically that so we'll come back to it for sure. 
+But that's the general idea now i did say here. 
+So that's the wrap things up until next week. 
+I would definitely recommend playing around with the code make sure you are comfortable running it with cradle. 
+And of course pushing and pulling which is your laptop. 
+The material is actually already posted that says he has right after the lecture but it's already posted. 
+And there is come prepared with questions to the next lecture right hey google. 
+But next time you will be driven basically by your. 
+Questions about the project music xml what should you do questions about get how do i push and pull all of those things is what we're going to discuss next week. 
+Error:
+Okay. 
+Let me see here. 
+Give me the latest if you cannot read music or don't know anything about music don't worry that this is that this project does not require you to to understand music and that's because obviously we're not the first ones that. 
+Error:
+Slides already on the course outline is where i'll be putting everything right so. 
+As you can see here at the electric slides are already here. 
+Error:
+I said she had a video of the first electric will be posted here so basically as soon as we're done i'll get the recording. 
+I will update this within the next couple of hours. 
+Error:
+Error:
+Error:
+Error:
+I will try to sort of visualize music xml down here you'll see that i've already have some music from previous either in the form of a desktop app that you guys can download and run your own machine or two different websites that will be realized any music xml file that you upload so the idea is that to sort of replicate. 
+Okay so i think that's all for now i have definitely some questions that i see privately on the title i'll definitely get all these i'm not going away don't worry about it but i guess for now i'll sort of dismiss the class if you are if you got everything then you're good to go but otherwise i'll be here to sort of help everybody set up. 
+Any questions for for the whole class that you guys might have. 
+Let me stop sharing my screen. 
+Okay i don't see any questions for anybody so i'll stop the recording. 
+The results we see from this previews but of course as part of our software in java at the moment there is no job elaborate to sort of visualize musical so it's actually an interesting project i could be useful to do lots of musicians out there. 
+All right so that's too much talking without looking at it so i'll come back to this when we run the software but just to. 
+Give you the idea i will there's a lot of test cases in the system that you can use to sort of getting started and produce music xml wave so that you can. 
+Start replicating what is previews do in in java. 
+Error:
+I have a question here in the chart about what technical skills or frameworks will use to make this project and that's a great question basically for this project to give a lot to use any library you can find anywhere on the internet so. 

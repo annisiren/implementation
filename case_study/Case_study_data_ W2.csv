@@ -1,0 +1,177 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T2,Authentication,,,,,,,,,
+LO1a_1,,,,,,,,,,none
+ER1a_1_1,Introduction,P:I,I:V,,,,video,shallow,Remember,none
+ER1b_1_1,Introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 1,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,Passwords: what are they for?,P:S,I:V,,,,image,shallow,,adaptive
+ER2a_1_2,Passwords: what are they for?,P:I,I:V,O:I,Pr:R,U:G,text,shallow,create,adaptive
+ER2a_1_3,Passwords: what are they for?,P:S,I:A,,Pr:A,,website,deep,analyze,adaptive
+ER2a_1_4,Passwords: what are they for?,P:I,I:V,O:I,Pr:R,,text,deep,apply,adaptive
+ER2a_1_5,Passwords: what are they for?,P:S,I:A,,Pr:R,,video,general,,adaptive
+ER2b_1_1,Passwords: what are they for?,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptable
+ER2b_1_2,Passwords: what are they for?,P:S,I:A,,,U:G,image,general,understand,adaptable
+ER2b_1_3,Passwords: what are they for?,P:S,I:A,O:I,Pr:A,,image,general,remember,adaptable
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,What happens when you enter a password?,P:S,I:V,O:I,,,video,general,Understand,adaptive
+ER3a_1_2,What happens when you enter a password?,P:S,I:A,O:D,Pr:A,,text,general,apply,adaptive
+ER3b_1_1,What happens when you enter a password?,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER3b_1_2,What happens when you enter a password?,P:S,I:A,,Pr:A,U:G,text,general,evaluate,adaptable
+ER3b_1_3,What happens when you enter a password?,P:I,I:V,O:I,,U:S,website,general,create,adaptable
+ER3b_1_4,What happens when you enter a password?,P:S,I:A,O:D,Pr:A,U:G,text,shallow,,adaptable
+ER3c_1_1,What happens when you enter a password?,P:I,I:A,,,,website,shallow,,adaptable
+ER3c_1_2,What happens when you enter a password?,P:S,I:A,O:I,Pr:R,U:G,text,deep,analyze,adaptable
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Attacking passwords,P:S,I:V,,,,image,shallow,,none
+ER4b_1_1,Attacking passwords,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER4b_1_2,Attacking passwords,P:S,I:A,,Pr:R,U:G,website,deep,understand,adaptive
+ER4b_1_3,Attacking passwords,P:I,I:V,O:I,Pr:R,U:G,website,shallow,evaluate,adaptive
+ER4b_1_4,Attacking passwords,P:I,I:V,,,U:S,website,general,evaluate,adaptive
+ER4b_1_5,Attacking passwords,P:S,I:A,,Pr:R,U:S,website,general,understand,adaptive
+LO2d_1,,,,,,,,,,none
+ER5a_1_1,Salt to protect,P:S,I:V,,,,image,shallow,,none
+ER5b_1_1,Salt to protect,P:I,I:A,O:D,Pr:R,U:S,text,shallow,"Understand, Analyze",adaptive
+ER5b_1_2,,P:I,I:V,O:I,,U:G,image,deep,apply,adaptive
+,Part 2,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER6a_1_1,Improving password security,P:S,I:V,,,,image,shallow,,adaptive
+ER6a_1_2,Improving password security,P:I,I:V,,Pr:R,U:G,video,shallow,understand,adaptive
+ER6a_1_3,Improving password security,P:I,I:V,,,,audio,general,understand,adaptive
+ER6a_1_4,Improving password security,P:I,I:V,,Pr:R,,image,deep,analyze,adaptive
+ER6b_1_1,Improving password security,P:I,I:A,O:D,Pr:A,U:S,text,shallow,"Understand, Evaluate",adaptable
+ER6b_1_2,Improving password security,P:S,I:A,,Pr:R,U:S,audio,deep,,adaptable
+LO3b_1,,,,,,,,,,none
+ER7a_1_1,How to pick a proper password,P:S,I:V,O:I,,,video,shallow,Understand,adaptable
+ER7a_1_2,How to pick a proper password,P:S,I:A,O:D,Pr:A,,text,general,apply,adaptable
+ER7a_1_3,How to pick a proper password,P:I,I:V,O:D,,U:G,text,general,remember,adaptable
+ER7b_1_1,How to pick a proper password,P:S,I:A,O:I,Pr:A,U:S,text,shallow,"Understand, Evaluate",adaptable
+ER7b_1_2,How to pick a proper password,P:S,I:A,,Pr:R,,audio,deep,create,adaptable
+ER7b_1_3,How to pick a proper password,P:S,I:A,O:D,Pr:A,U:G,website,deep,apply,adaptable
+ER7b_1_4,How to pick a proper password,P:I,I:V,O:D,,U:G,image,deep,understand,adaptable
+LO3c_1,,,,,,,,,,none
+ER8a_1_1,Checking the strength of a password,P:S,I:V,,,,image,shallow,,adaptable
+ER8a_1_2,Checking the strength of a password,P:I,I:V,O:I,Pr:A,U:S,text,general,,adaptable
+ER8b_1_1,Checking the strength of a password,P:S,I:A,O:I,Pr:A,U:S,text,shallow,"Understand, Analyze",adaptable
+ER8b_1_2,Checking the strength of a password,P:I,I:V,,Pr:R,,text,shallow,,adaptable
+ER8b_1_3,Checking the strength of a password,P:S,I:A,,,,text,shallow,,adaptable
+ER8c_1_1,Checking the strength of a password,P:I,I:A,,,,website,shallow,,adaptive
+ER8c_1_2,Checking the strength of a password,P:I,I:V,O:I,Pr:R,U:G,audio,deep,,adaptive
+LO3d_1,,,,,,,,,,adaptable
+ER9a_1_1,Password managers,P:S,I:V,,,,image,shallow,,adaptable
+ER9a_1_2,Password managers,P:I,I:V,O:D,Pr:R,U:G,audio,general,analyze,adaptable
+ER9b_1_1,Password managers,P:I,I:A,O:I,Pr:R,U:S,text,general,Understand,adaptive
+ER9b_1_2,Password managers,P:I,I:V,,Pr:A,,audio,deep,evaluate,adaptive
+ER9b_1_3,Password managers,P:I,I:V,O:I,Pr:R,U:G,text,deep,remember,adaptive
+ER9c_1_1,Password managers,P:I,I:A,O:D,,,website,general,,adaptable
+ER9c_1_2,Password managers,P:S,I:A,O:D,Pr:R,,video,general,remember,adaptable
+LO3d_2,,,,,,,,,,adaptable
+ER9a_2_1,Password managers,P:S,I:A,O:D,,U:G,text,shallow,remember,adaptable
+ER9a_2_2,Password managers,P:S,I:A,O:I,Pr:A,U:S,text,shallow,understand,adaptable
+ER9a_2_3,Password managers,P:I,I:V,O:D,,U:S,image,general,analyze,adaptable
+ER9b_2_1,Password managers,P:I,I:V,,Pr:R,U:G,image,shallow,evaluate,adaptable
+ER9b_2_2,Password managers,P:S,I:A,O:I,,U:G,video,deep,evaluate,adaptable
+ER9c_2_1,Password managers,P:I,I:V,,Pr:A,U:S,text,deep,apply,adaptable
+ER9c_2_2,Password managers,P:S,I:A,O:I,,U:S,image,general,understand,adaptable
+ER9c_2_3,Password managers,P:S,I:A,,,U:S,audio,deep,analyze,adaptable
+ER9c_2_4,Password managers,P:S,I:A,O:D,Pr:A,,image,deep,apply,adaptable
+LO3e_1,,,,,,,,,,none
+ER10a_1_1,Installing and using a password manager,P:S,I:V,,,,image,shallow,,adaptable
+ER10a_1_2,Installing and using a password manager,P:I,I:V,,Pr:R,U:G,text,shallow,evaluate,adaptable
+ER10a_1_3,Installing and using a password manager,P:I,I:V,,,U:G,video,deep,understand,adaptable
+ER10a_1_4,Installing and using a password manager,P:I,I:V,O:I,Pr:R,U:G,website,shallow,understand,adaptable
+ER10a_1_5,Installing and using a password manager,P:S,I:A,,Pr:R,U:S,video,general,evaluate,adaptable
+ER10b_1_1,Installing and using a password manager,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand. Apply,adaptable
+ER10b_1_2,Installing and using a password manager,P:I,I:V,,,,text,deep,understand,adaptable
+ER10b_1_3,Installing and using a password manager,P:S,I:A,,,,text,shallow,evaluate,adaptable
+ER10b_1_4,Installing and using a password manager,P:S,I:A,O:D,,,website,deep,,adaptable
+ER10c_1_1,Installing and using a password manager,P:I,I:A,,,,website,general,,none
+ER10d_1_1,Installing and using a password manager,P:I,I:A,,,,website,shallow,,adaptive
+ER10d_1_2,Installing and using a password manager,P:I,I:V,O:D,,,website,deep,,adaptive
+ER10d_1_3,Installing and using a password manager,P:I,I:V,O:I,,U:S,audio,deep,evaluate,adaptive
+ER10d_1_4,Installing and using a password manager,P:I,I:V,O:D,Pr:R,U:S,video,general,understand,adaptive
+ER10e_1_1,Installing and using a password manager,P:I,I:A,,,,website,shallow,,adaptive
+ER10e_1_2,Installing and using a password manager,P:I,I:V,,Pr:R,U:G,image,deep,,adaptive
+ER10e_1_3,Installing and using a password manager,P:I,I:V,O:D,Pr:R,U:S,website,shallow,create,adaptive
+ER10e_1_4,Installing and using a password manager,P:I,I:V,O:D,Pr:A,,website,general,understand,adaptive
+ER10e_1_5,Installing and using a password manager,P:S,I:A,O:I,,U:G,text,deep,,adaptive
+ER10f_1_1,Installing and using a password manager,P:I,I:A,,,,website,shallow,,adaptable
+ER10f_1_2,Installing and using a password manager,P:S,I:A,O:I,Pr:R,U:S,text,shallow,analyze,adaptable
+ER10g_1_1,Installing and using a password manager,P:I,I:A,,,,website,general,,adaptive
+ER10g_1_2,Installing and using a password manager,P:I,I:V,O:I,,U:S,image,deep,understand,adaptive
+ER10g_1_3,Installing and using a password manager,P:I,I:V,O:D,Pr:A,U:G,video,shallow,create,adaptive
+ER10g_1_4,Installing and using a password manager,P:S,I:A,O:I,,U:S,text,deep,,adaptive
+ER10g_1_5,Installing and using a password manager,P:I,I:V,O:I,,,website,general,understand,adaptive
+LO3f_1,,,,,,,,,,none
+ER11a_1_1,Alternatives to using password managers,P:S,I:V,,,,image,shallow,,adaptable
+ER11a_1_2,Alternatives to using password managers,P:S,I:A,O:D,,,website,general,understand,adaptable
+ER11a_1_3,Alternatives to using password managers,P:I,I:V,O:I,Pr:R,,text,deep,understand,adaptable
+ER11b_1_1,Alternatives to using password managers,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptable
+ER11b_1_2,Alternatives to using password managers,P:S,I:A,,Pr:A,,text,deep,evaluate,adaptable
+ER11b_1_3,Alternatives to using password managers,P:S,I:A,,Pr:R,U:G,audio,deep,evaluate,adaptable
+ER11b_1_4,Alternatives to using password managers,P:I,I:V,,Pr:A,U:G,website,deep,analyze,adaptable
+ER11c_1_1,Alternatives to using password managers,P:I,I:A,,,,website,shallow,,adaptive
+ER11c_1_2,,P:I,I:V,,Pr:A,,website,general,evaluate,adaptive
+,Part 3,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER12a_1_1,Two-factor authentication,P:S,I:V,,,,image,shallow,,adaptable
+ER12a_1_2,Two-factor authentication,P:S,I:A,,Pr:A,,video,deep,evaluate,adaptable
+ER12b_1_1,Two-factor authentication,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,adaptive
+ER12b_1_2,Two-factor authentication,P:I,I:V,,,,text,deep,evaluate,adaptive
+LO4b_1,,,,,,,,,,none
+ER13a_1_1,Setting up two-factor authentication,P:S,I:V,,,,image,shallow,,none
+ER13b_1_1,Setting up two-factor authentication,P:S,I:A,O:I,Pr:A,U:S,text,shallow,Apply,none
+LO4c_1,,,,,,,,,,adaptable
+ER14a_1_1,Two-factor authentication on Google,P:S,I:A,,,,text,shallow,,adaptable
+ER14a_1_2,Two-factor authentication on Google,P:I,I:V,O:I,Pr:R,,video,shallow,analyze,adaptable
+ER14a_1_3,Two-factor authentication on Google,P:I,I:V,O:D,Pr:A,,video,general,evaluate,adaptable
+ER14b_1_1,Two-factor authentication on Google,P:S,I:A,O:I,Pr:A,U:S,website,shallow,Apply,adaptable
+ER14b_1_2,Two-factor authentication on Google,P:I,I:V,,Pr:R,U:G,website,deep,remember,adaptable
+LO4c_2,,,,,,,,,,adaptable
+ER14b_1_1,Two-factor authentication on Google,P:S,I:A,,,U:S,video,general,understand,adaptable
+ER14b_1_2,Two-factor authentication on Google,P:I,I:V,,Pr:R,,audio,shallow,analyze,adaptive
+ER14b_1_3,Two-factor authentication on Google,P:S,I:A,,,U:G,image,shallow,,adaptable
+ER14b_1_4,Two-factor authentication on Google,P:S,I:A,,Pr:R,U:S,text,general,understand,adaptable
+LO4d_1,,,,,,,,,,none
+ER15a_1_1,Two-factor authentication on Facebook,P:S,I:A,,,,text,shallow,,adaptive
+ER15a_1_2,Two-factor authentication on Facebook,P:I,I:V,,Pr:A,,image,general,analyze,adaptive
+ER15b_1_1,Two-factor authentication on Facebook,P:S,I:A,O:I,Pr:A,U:S,website,shallow,Apply,adaptable
+ER15b_1_2,Two-factor authentication on Facebook,P:S,I:A,O:D,Pr:A,U:S,image,deep,analyze,adaptable
+ER15b_1_3,Two-factor authentication on Facebook,P:S,I:A,O:D,Pr:A,U:G,video,shallow,understand,adaptable
+ER15b_1_4,Two-factor authentication on Facebook,P:S,I:A,O:D,,U:G,audio,general,evaluate,adaptable
+LO4e_1,,,,,,,,,,adaptable
+ER16a_1_1,Other two-factor authentication services,P:S,I:A,,,,text,shallow,,adaptive
+ER16a_1_2,Other two-factor authentication services,P:S,I:A,O:I,Pr:R,U:S,image,deep,apply,adaptive
+ER16b_1_1,Other two-factor authentication services,P:S,I:A,O:I,Pr:A,U:S,website,shallow,Apply,adaptable
+ER16b_1_2,Other two-factor authentication services,P:I,I:V,O:I,Pr:R,U:S,website,general,analyze,adaptable
+LO4e_2,,,,,,,,,,adaptable
+ER16a_2_1,Other two-factor authentication services,P:I,I:V,,Pr:A,U:S,audio,shallow,create,none
+LO4f_1,,,,,,,,,,adaptive
+ER17a_1_1,Other services supporting two-factor authentication,P:S,I:A,,,,image,shallow,,adaptable
+ER17a_1_2,Other services supporting two-factor authentication,P:I,I:V,O:D,Pr:R,U:G,text,shallow,apply,adaptable
+ER17a_1_3,Other services supporting two-factor authentication,P:S,I:A,O:I,,U:S,image,general,remember,adaptable
+ER17a_1_4,Other services supporting two-factor authentication,P:S,I:A,,Pr:A,U:G,text,deep,create,adaptable
+ER17b_1_1,Other services supporting two-factor authentication,P:S,I:A,O:D,Pr:R,U:S,text,shallow,Apply,adaptable
+ER17b_1_2,Other services supporting two-factor authentication,P:S,I:A,O:I,Pr:R,,image,deep,apply,adaptable
+ER17c_1_1,Other services supporting two-factor authentication,P:S,I:A,O:I,Pr:A,U:S,text,general,"Create, Apply",adaptive
+ER17c_1_2,Other services supporting two-factor authentication,P:S,I:A,O:I,,U:G,video,shallow,analyze,adaptive
+LO4f_2,,,,,,,,,,adaptive
+ER17a_2_1,Other services supporting two-factor authentication,P:S,I:A,,Pr:R,U:G,image,general,apply,adaptive
+ER17b_2_1,Other services supporting two-factor authentication,P:S,I:A,,,,text,shallow,,adaptive
+ER17b_2_2,Other services supporting two-factor authentication,P:I,I:V,O:D,,,audio,general,evaluate,adaptive
+ER17b_2_3,Other services supporting two-factor authentication,P:I,I:V,O:D,Pr:A,U:G,audio,deep,create,adaptive
+ER17b_2_4,Other services supporting two-factor authentication,P:S,I:A,O:I,Pr:R,U:G,audio,deep,apply,adaptive
+ER17c_2_1,Other services supporting two-factor authentication,P:I,I:V,O:I,Pr:R,U:G,website,deep,,adaptive
+,Part 4,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER18a_1_1,Week 2 quiz,P:I,I:A,,,,text,shallow,Understand,none
+ER18b_1_1,Week 2 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+,Part 5,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER19a_1_1,Summary of Week 2,P:S,I:V,,,,image,shallow,,none
+ER19b_1_1,Summary of Week 2,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+,Part 6,,,,,,,,,
+LO7a_1,,,,,,,,,,none
+ER20a_1_1,Further reading,P:I,I:A,,,,text,shallow,Understand,none
+ER20b_1_1,Further reading,P:I,I:A,,,,website,general,,none
+ER20c_1_1,Further reading,P:I,I:A,,,,website,deep,,none

@@ -1,0 +1,6 @@
+label,bow_wt,bow_stem,bow_lem
+measur,,3.0,
+measure,3.0,,3.0
+repeat,,1.0,1.0
+select,1.0,1.0,1.0
+support,1.0,2.0,1.0

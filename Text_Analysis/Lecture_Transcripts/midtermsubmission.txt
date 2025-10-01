@@ -1,0 +1,119 @@
+Midterm submission
+
+Click to edit Master text styles
+
+EECS 2311 - Software Development Project
+
+Second level
+
+Third level
+
+Fourth level
+
+Fifth level
+
+Monday, February 28, 2022
+
+1
+
+Midterm submission details
+
+• Rubric posted on the course website
+
+• Click on Evaluation
+
+• Four grade components
+
+1. Requirements document
+
+2. Testing document
+
+3. User Manual
+
+4. Implementation
+
+2
+
+Requirements Document
+
+• Describes what the system does for its 
+
+client/customer, not how it does it
+
+• Contains use cases and user stories for the 
+
+system
+
+• No particular format required for this course
+
+3
+
+Testing Document
+
+• Describes the test cases that have been 
+
+implemented 
+
+• Includes discussion on how these test cases 
+
+were derived
+
+• Includes discussion on why these test cases are 
+
+sufficient
+
+• No particular format required for this course
+
+4
+
+User Manual
+
+• Describes how to install the system on the 
+
+client’s site
+
+• Describes major use cases
+
+• Contains screenshots or even links to video
+
+• Must be easy to understand by someone who is 
+
+unfamiliar with the system
+
+5
+
+Repository organization
+
+• Your repository must have a well-designed 
+
+README that explains anything we may need 
+to be able to run your program and find the 
+documents
+
+• All documents must be committed to your github
+repository both as source (Word, latex, Pages 
+etc) as well as PDF
+• Create a folder called Documentation
+
+6
+
+Submission instructions
+
+• Everything that you want to submit must be on 
+
+your github repository
+
+• The actual submission will be done on eClass
+
+as online text which will be just the URL of your 
+github repository
+
+• You can do the submission now if you want!
+
+• Your master branch at the last commit 
+
+before the deadline is what will be marked
+
+7
+
+

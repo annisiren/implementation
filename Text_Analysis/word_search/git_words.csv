@@ -1,0 +1,8 @@
+label,bow_wt,bow_stem,bow_lem
+creat,,4.0,
+create,3.0,,3.0
+critic,,1.0,
+develop,,3.0,
+select,,1.0,
+support,2.0,3.0,2.0
+use,1.0,3.0,1.0

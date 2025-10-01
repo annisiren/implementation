@@ -1,0 +1,227 @@
+tier,title,LS: Perception,LS: Input,LS: Organization,LS: Processing,LS: Understanding,CT,D,BT,P
+T1,threat landscape,,,,,,,,,
+Part 0,,,,,,,,,,
+LO1a_1,introduction,,,,,,,,,
+ER1a_1_1,introduction,P:I,I:V,O:D,Pr:R,U:S,video,shallow,Understand,none
+ER1b_1_1,introduction,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+ER1c_1_1,survey,P:I,I:A,O:D,Pr:R,U:S,website,shallow,Understand,none
+Part 1,,,,,,,,,,
+LO2a_1,,,,,,,,,,none
+ER2a_1_1,online the new frontline,P:I,I:V,O:I,Pr:R,U:S,video,shallow,Understand,none
+ER2b_1_1,online the new frontline,P:I,I:A,O:I,Pr:R,U:S,text,general,Understand,none
+LO2b_1,,,,,,,,,,none
+ER3a_1_1,talking security: the basics,P:S,I:V,,,,image,shallow,Understand,none
+ER3b_1_1,talking security: the basics,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand,  Analyze",none
+LO2c_1,,,,,,,,,,none
+ER4a_1_1,Obtaining Sophos Threatsaurus,P:S,I:V,,,,image,shallow,,none
+ER4b_1_1,Obtaining Sophos Threatsaurus,P:S,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER4c_1_1,Obtaining Sophos Threatsaurus,P:S,I:A,O:D,Pr:R,U:S,text,deep,"Understand,  Analyze",none
+LO2d_1,,,,,,,,,,none
+ER5a_1_1,Cyber security attacks and phishing,P:S,I:V,O:I,Pr:A,U:S,video,general,"Analyze, Evalute",none
+ER5b_1_1,Cyber security attacks and phishing,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+ER5c_1_1,Cyber security attacks and phishing,P:I,I:A,,,,website,general,Analyze,none
+ER5d_1_1,Cyber security attacks and phishing,P:I,I:A,,,,website,shallow,,none
+ER5e_1_1,Cyber security attacks and phishing,P:I,I:A,,,,website,shallow,,none
+LO2e_1,,,,,,,,,,none
+ER6a_1_1,Examples of high profile cyber security breaches,P:S,I:V,,,,image,shallow,,none
+ER6b_1_1,Examples of high profile cyber security breaches,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Analyze",none
+ER6c_1_1,Examples of high profile cyber security breaches,P:I,I:A,,,,website,shallow,,none
+ER6d_1_1,Examples of high profile cyber security breaches,P:I,I:A,,,,website,general,Understand,none
+ER6e_1_1,Examples of high profile cyber security breaches,P:I,I:A,,,,website,general,Understand,none
+ER6f_1_1,Examples of high profile cyber security breaches,P:S,I:A,O:I,Pr:A,U:G,text,general,Apply,none
+LO2f_1,,,,,,,,,,none
+ER7a_1_1,Taking stock of your information assets,P:S,I:V,,,,image,shallow,,none
+ER7b_1_1,Taking stock of your information assets,P:I,I:A,O:D,,U:S,text,shallow,Understand,none
+ER7c_1_1,Taking stock of your information assets,P:I,I:A,O:D,Pr:A,U:S,text,general,"Apply, Create",none
+LO2g_1,,,,,,,,,,none
+ER8a_1_1,What are your own safeguards?,P:S,I:V,,,,image,shallow,,none
+ER8b_1_1,What are your own safeguards?,P:I,I:A,O:D,Pr:R,U:S,text,shallow,"Understand, Apply",none
+ER8c_1_1,What are your own safeguards?,P:I,I:A,,,,website,shallow,Apply,none
+Part 2,,,,,,,,,,
+LO3a_1,,,,,,,,,,none
+ER9a_1_1,Understanding current threats,P:S,I:V,,,,image,shallow,,adaptive
+ER9a_1_2,Understanding current threats,P:S,I:A,O:D,,,website,deep,Understand,adaptive
+ER9a_1_3,Understanding current threats,P:I,I:V,O:I,,U:G,image,deep,remember,adaptive
+ER9a_1_4,Understanding current threats,P:I,I:V,,,U:G,video,deep,evaluate,adaptive
+ER9b_1_1,Understanding current threats,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER9b_1_2,Understanding current threats,P:I,I:V,O:I,,U:G,video,deep,understand,adaptive
+ER9b_1_3,Understanding current threats,P:S,I:A,O:D,Pr:R,,video,deep,apply,adaptive
+ER9b_1_4,Understanding current threats,P:I,I:V,O:I,,U:S,text,shallow,apply,adaptive
+ER9b_1_5,Understanding current threats,P:S,I:A,O:D,Pr:R,U:S,website,deep,evaluate,adaptive
+LO3b_1,,,,,,,,,,adaptable
+ER10a_1_1,Identifying vulnerable systems,P:S,I:V,O:I,Pr:R,U:S,video,general,Understand,none
+ER10b_1_1,Identifying vulnerable systems,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+LO3b_2,,,,,,,,,,adaptable
+ER10b_2_1,Identifying vulnerable systems,P:S,I:A,O:I,Pr:A,U:G,website,shallow,create,none
+ER10b_2_2,Identifying vulnerable systems,P:S,I:A,O:I,Pr:R,U:G,audio,general,create,adaptable
+ER10b_2_3,Identifying vulnerable systems,P:I,I:V,O:I,Pr:R,U:S,website,deep,analyze,adaptable
+LO3c_1,,,,,,,,,,adaptable
+ER11a_1_1,How to keep up to date,P:S,I:V,,,,image,shallow,,adaptable
+ER11a_1_2,How to keep up to date,P:S,I:A,O:D,,U:G,audio,general,create,adaptable
+ER11a_1_3,How to keep up to date,P:I,I:V,O:D,,,audio,general,create,adaptable
+ER11a_1_4,How to keep up to date,P:I,I:V,,Pr:A,,audio,shallow,analyze,adaptable
+ER11b_1_1,How to keep up to date,P:I,I:A,O:D,Pr:R,U:S,text,general,"Understand, Analyze",adaptive
+ER11b_1_2,How to keep up to date,P:S,I:A,,Pr:R,,image,deep,apply,adaptive
+ER11b_1_3,How to keep up to date,P:I,I:V,O:I,Pr:A,U:G,video,shallow,understand,adaptive
+ER11b_1_4,How to keep up to date,P:I,I:V,O:I,Pr:A,U:S,text,shallow,create,adaptive
+ER11b_1_5,How to keep up to date,P:I,I:V,O:I,Pr:R,U:S,text,deep,create,adaptive
+ER11c_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11c_1_2,How to keep up to date,P:S,I:A,O:D,Pr:R,U:S,website,deep,remember,adaptable
+ER11c_1_3,How to keep up to date,P:S,I:A,,Pr:R,,text,general,analyze,adaptable
+ER11c_1_4,How to keep up to date,P:S,I:A,O:D,Pr:R,U:G,video,general,apply,adaptable
+ER11c_1_5,How to keep up to date,P:S,I:A,O:D,Pr:R,,text,shallow,remember,adaptable
+ER11d_1_1,How to keep up to date,P:I,I:A,,,,website,general,,adaptable
+ER11d_1_2,How to keep up to date,P:I,I:V,O:D,Pr:A,U:G,text,shallow,analyze,adaptable
+ER11d_1_3,How to keep up to date,P:S,I:A,O:I,,U:G,video,deep,analyze,adaptable
+ER11d_1_4,How to keep up to date,P:S,I:A,O:I,Pr:R,U:G,image,general,create,adaptable
+ER11e_1_1,How to keep up to date,P:I,I:A,,,,website,general,,none
+ER11f_1_1,How to keep up to date,P:I,I:A,,,,website,general,,adaptive
+ER11f_1_2,How to keep up to date,P:I,I:V,,Pr:A,,website,shallow,remember,adaptive
+ER11f_1_3,How to keep up to date,P:I,I:V,,,U:G,video,general,evaluate,adaptive
+ER11f_1_4,How to keep up to date,P:S,I:A,O:D,,,image,deep,analyze,adaptive
+ER11g_1_1,How to keep up to date,P:I,I:A,,,,website,general,,adaptive
+ER11g_1_2,How to keep up to date,P:S,I:A,O:D,Pr:R,,website,deep,,adaptive
+ER11g_1_3,How to keep up to date,P:I,I:V,O:D,Pr:R,,website,deep,create,adaptive
+ER11g_1_4,How to keep up to date,P:S,I:A,,,,image,deep,apply,adaptive
+ER11g_1_5,How to keep up to date,P:S,I:A,O:I,Pr:R,U:S,website,deep,evaluate,adaptive
+ER11h_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11h_1_2,How to keep up to date,P:I,I:V,,,U:S,video,shallow,evaluate,adaptable
+ER11i_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptive
+ER11i_1_2,How to keep up to date,P:I,I:V,O:D,Pr:R,U:S,website,shallow,Understand,adaptive
+ER11i_1_3,How to keep up to date,P:I,I:V,,,U:G,website,shallow,evaluate,adaptive
+ER11j_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,none
+ER11k_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11k_1_2,How to keep up to date,P:S,I:A,O:I,Pr:R,U:S,website,deep,create,adaptable
+ER11k_1_3,How to keep up to date,P:I,I:V,O:D,Pr:R,,text,general,evaluate,adaptable
+ER11k_1_4,How to keep up to date,P:S,I:A,,Pr:A,U:G,audio,deep,,adaptable
+ER11l_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11l_1_2,How to keep up to date,P:I,I:V,O:I,,,website,shallow,remember,adaptable
+ER11l_1_3,How to keep up to date,P:I,I:V,O:I,Pr:R,U:S,video,general,Understand,adaptable
+ER11m_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,none
+ER11n_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptive
+ER11n_1_2,How to keep up to date,P:I,I:V,O:D,Pr:R,,audio,shallow,,adaptive
+ER11n_1_3,How to keep up to date,P:I,I:V,,,U:S,image,general,remember,adaptive
+ER11o_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11o_1_2,How to keep up to date,P:I,I:V,O:D,Pr:R,U:G,website,deep,create,adaptable
+ER11o_1_3,How to keep up to date,P:I,I:V,O:I,,U:S,website,shallow,analyze,adaptable
+ER11p_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11p_1_2,How to keep up to date,P:S,I:A,O:D,Pr:A,U:S,website,shallow,evaluate,adaptable
+ER11p_1_3,How to keep up to date,P:I,I:V,O:D,Pr:R,U:G,text,deep,evaluate,adaptable
+ER11p_1_4,How to keep up to date,P:I,I:V,O:I,Pr:R,U:G,website,deep,apply,adaptable
+ER11q_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptable
+ER11q_1_2,How to keep up to date,P:S,I:A,O:I,Pr:A,U:G,image,deep,evaluate,adaptable
+ER11q_1_3,How to keep up to date,P:I,I:V,O:D,Pr:R,U:S,website,shallow,,adaptable
+ER11q_1_4,How to keep up to date,P:I,I:V,,,U:G,website,shallow,Understand,adaptable
+ER11r_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,adaptive
+ER11r_1_2,How to keep up to date,P:S,I:A,O:D,Pr:R,U:S,image,shallow,analyze,adaptive
+ER11r_1_3,How to keep up to date,P:I,I:V,,Pr:A,,image,shallow,,adaptive
+ER11r_1_4,How to keep up to date,P:S,I:A,,Pr:R,U:G,audio,shallow,apply,adaptive
+ER11s_1_1,How to keep up to date,P:I,I:A,,,,website,deep,,none
+ER11t_1_1,How to keep up to date,P:I,I:A,O:I,Pr:A,U:S,text,general,Apply,adaptive
+ER11t_1_2,How to keep up to date,P:I,I:V,O:I,,,image,shallow,create,adaptive
+ER11t_1_3,How to keep up to date,P:S,I:A,,,U:G,image,general,create,adaptive
+LO3c_2,,,,,,,,,,adaptable
+ER11a_2_1,How to keep up to date,P:S,I:A,O:I,Pr:A,U:S,audio,shallow,analyze,adaptable
+ER11a_2_2,How to keep up to date,P:S,I:A,,Pr:R,U:G,image,general,understand,adaptable
+ER11a_2_3,How to keep up to date,P:S,I:A,,Pr:A,U:S,image,general,remember,adaptable
+ER11b_2_1,How to keep up to date,P:S,I:A,O:D,Pr:A,,text,deep,,adaptive
+ER11b_2_2,How to keep up to date,P:I,I:V,O:D,Pr:A,,audio,general,,adaptive
+ER11b_2_3,How to keep up to date,P:I,I:V,O:I,Pr:A,,audio,deep,apply,adaptive
+ER11d_2_1,How to keep up to date,P:I,I:V,O:I,,U:S,video,deep,remember,adaptable
+ER11d_2_2,How to keep up to date,P:I,I:V,O:D,Pr:R,U:S,text,general,,adaptable
+ER11d_2_3,How to keep up to date,P:I,I:V,O:I,Pr:R,,video,deep,remember,adaptable
+ER11d_2_4,How to keep up to date,P:S,I:A,O:I,Pr:R,U:S,audio,deep,create,adaptable
+ER11e_2_1,How to keep up to date,P:S,I:A,O:D,Pr:A,U:S,audio,shallow,remember,none
+ER11f_2_1,How to keep up to date,P:S,I:A,O:D,Pr:R,,audio,deep,create,adaptive
+ER11f_2_2,How to keep up to date,P:I,I:V,,Pr:A,,text,shallow,apply,adaptive
+ER11f_2_3,How to keep up to date,P:I,I:V,O:I,Pr:A,,text,deep,create,adaptive
+ER11g_2_1,How to keep up to date,P:S,I:A,O:D,,,image,shallow,understand,adaptive
+ER11g_2_2,How to keep up to date,P:S,I:A,O:I,Pr:R,U:G,website,shallow,evaluate,adaptive
+ER11h_2_1,How to keep up to date,P:I,I:V,,Pr:A,,audio,general,create,adaptable
+ER11h_2_2,How to keep up to date,P:S,I:A,O:D,Pr:A,,text,general,understand,adaptable
+ER11i_2_1,How to keep up to date,P:I,I:V,O:I,Pr:A,U:S,image,deep,,adaptable
+ER11i_2_2,How to keep up to date,P:I,I:V,O:I,Pr:R,U:G,video,general,apply,adaptable
+ER11i_2_3,How to keep up to date,P:I,I:V,O:D,,U:S,video,general,apply,adaptable
+ER11i_2_4,How to keep up to date,P:I,I:V,O:D,Pr:A,U:S,image,general,analyze,adaptable
+ER11j_2_1,How to keep up to date,P:I,I:V,,Pr:R,U:G,audio,deep,understand,adaptable
+ER11j_2_2,How to keep up to date,P:I,I:V,O:I,Pr:A,,website,shallow,,adaptable
+ER11j_2_3,How to keep up to date,P:S,I:A,O:I,Pr:R,,audio,deep,,adaptable
+ER11k_2_1,How to keep up to date,P:S,I:A,O:D,,,image,shallow,understand,adaptive
+ER11k_2_2,How to keep up to date,P:S,I:A,,Pr:A,,website,deep,evaluate,adaptive
+ER11l_2_1,How to keep up to date,P:S,I:A,,Pr:R,U:G,image,shallow,,adaptive
+ER11l_2_2,How to keep up to date,P:S,I:A,O:D,Pr:A,U:S,text,deep,,adaptive
+ER11n_2_1,How to keep up to date,P:S,I:A,O:D,Pr:A,U:S,text,general,remember,adaptive
+ER11n_2_2,How to keep up to date,P:S,I:A,O:I,,,audio,shallow,remember,adaptive
+ER11p_2_1,How to keep up to date,P:I,I:V,O:D,Pr:A,U:S,audio,shallow,analyze,none
+ER11q_2_1,How to keep up to date,P:S,I:A,,Pr:R,U:S,text,general,evaluate,adaptable
+ER11q_2_2,How to keep up to date,P:I,I:V,O:I,Pr:A,U:S,text,general,analyze,adaptable
+ER11q_2_3,How to keep up to date,P:I,I:V,,Pr:R,U:G,video,shallow,,adaptable
+ER11s_2_1,How to keep up to date,P:S,I:A,O:I,Pr:A,,text,shallow,remember,adaptive
+ER11s_2_2,How to keep up to date,P:I,I:V,,,,video,general,understand,adaptive
+ER11s_2_3,How to keep up to date,P:S,I:A,O:D,,U:S,video,shallow,create,adaptive
+ER11t_2_1,How to keep up to date,P:I,I:V,O:D,,U:S,image,general,apply,adaptive
+ER11t_2_2,How to keep up to date,P:I,I:V,,Pr:R,U:S,video,general,apply,adaptive
+ER11t_2_3,How to keep up to date,P:S,I:A,O:D,Pr:A,U:G,video,shallow,evaluate,adaptive
+LO3d_1,,,,,,,,,,none
+ER12a_1_1,Staying informed,P:S,I:V,,,,image,shallow,,none
+ER12b_1_1,Staying informed,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,none
+ER12c_1_1,Staying informed,P:S,I:A,,,,website,shallow,Apply,none
+Part 3,,,,,,,,,,
+LO4a_1,,,,,,,,,,none
+ER13a_1_1,Securing my digital information,P:S,I:V,,,,image,shallow,,adaptive
+ER13a_1_2,Securing my digital information,P:I,I:V,,Pr:A,,image,general,analyze,adaptive
+ER13a_1_3,Securing my digital information,P:S,I:A,O:D,,,video,general,understand,adaptive
+ER13a_1_4,Securing my digital information,P:I,I:V,O:I,Pr:R,U:S,website,deep,understand,adaptive
+ER13a_1_5,Securing my digital information,P:I,I:V,O:I,Pr:R,U:S,website,shallow,evaluate,adaptive
+ER13b_1_1,Securing my digital information,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptable
+ER13b_1_2,Securing my digital information,P:I,I:V,O:D,Pr:R,U:S,image,deep,understand,adaptable
+ER13b_1_3,Securing my digital information,P:I,I:V,O:D,Pr:R,,website,general,apply,adaptable
+ER13b_1_4,Securing my digital information,P:I,I:V,,,,video,shallow,apply,adaptable
+ER13b_1_5,Securing my digital information,P:I,I:V,O:D,Pr:R,U:S,image,shallow,apply,adaptable
+ER13c_1_1,Securing my digital information,P:S,I:A,O:I,Pr:R,U:S,text,general,Apply,adaptive
+ER13c_1_2,Securing my digital information,P:I,I:V,,Pr:A,U:G,audio,shallow,remember,adaptive
+LO4b_1,,,,,,,,,,none
+ER14a_1_1,Threats to your assets,P:I,I:A,O:D,Pr:R,U:S,text,shallow,Understand,adaptive
+ER14a_1_2,Threats to your assets,P:I,I:V,O:I,,,text,deep,remember,adaptive
+ER14b_1_1,Threats to your assets,P:I,I:A,,,,website,general,Evaluate,adaptive
+ER14b_1_2,Threats to your assets,P:I,I:V,O:D,Pr:R,,website,deep,,adaptive
+ER14b_1_3,Threats to your assets,P:S,I:A,O:I,Pr:R,U:G,website,general,apply,adaptive
+ER14b_1_4,Threats to your assets,P:S,I:A,,,U:G,text,general,,adaptive
+ER14c_1_1,Threats to your assets,P:S,I:A,O:I,Pr:R,U:S,text,general,"Apply, Remember",adaptive
+ER14c_1_2,Threats to your assets,P:I,I:V,,Pr:A,U:G,text,shallow,evaluate,adaptive
+ER14c_1_3,Threats to your assets,P:S,I:A,,Pr:A,,image,deep,create,adaptive
+ER14c_1_4,Threats to your assets,P:S,I:A,O:D,Pr:R,,audio,general,evaluate,adaptive
+ER14c_1_5,Threats to your assets,P:S,I:A,,Pr:R,U:G,audio,deep,analyze,adaptive
+ER14d_1_1,Threats to your assets,P:S,I:A,O:I,Pr:A,U:S,website,shallow,"Apply, Create",adaptive
+ER14d_1_2,Threats to your assets,P:I,I:V,O:I,Pr:A,,video,general,,adaptive
+ER14d_1_3,Threats to your assets,P:I,I:V,,Pr:A,,text,deep,remember,adaptive
+ER14d_1_4,Threats to your assets,P:S,I:A,O:D,Pr:A,,image,general,understand,adaptive
+ER14e_1_1,Threats to your assets,P:S,I:V,,,,image,shallow,,none
+Part 4,,,,,,,,,,
+LO5a_1,,,,,,,,,,none
+ER15a_1_1,Week 1 quiz,P:I,I:A,,,,text,shallow,Understand,none
+ER15b_1_1,Week 1 quiz,P:I,I:A,,Pr:R,,website,general,Create,none
+Part 5,,,,,,,,,,
+LO6a_1,,,,,,,,,,none
+ER16a_1_1,Summary of Week 1,P:S,I:V,,,,image,shallow,,none
+ER16b_1_1,Summary of Week 1,P:I,I:A,O:D,Pr:R,U:S,text,general,Understand,none
+Part 6,,,,,,,,,,
+LO7a_1,,,,,,,,,,none
+ER17a_1_1,Further reading,P:I,I:A,,,,text,shallow,Understand,none
+ER17b_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER17c_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER17d_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER17e_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER17f_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+ER17g_1_1,Further reading,P:I,I:A,,,,website,deep,,none
+Part 7,,,,,,,,,,
+LO8a_1,,,,,,,,,,none
+ER18a_1_1,References,P:I,I:A,,,,text,shallow,Understand,none
+ER18b_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18c_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18d_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18e_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18f_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18g_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18h_1_1,References,P:I,I:A,,,,website,deep,,none
+ER18i_1_1,References,P:I,I:A,,,,website,deep,,none

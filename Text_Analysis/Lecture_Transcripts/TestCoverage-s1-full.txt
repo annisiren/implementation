@@ -1,0 +1,308 @@
+Okay so this is a video on test coverage. 
+So let's start i guess by reviewing testing in eclipse using gradle. 
+All right so as i'm sure you figured out by now. 
+Error:
+Integrated project. 
+There is the sourceful day here called shortest jav. 
+It's all your test cases on your test classes can go in there. 
+Right and then. 
+Uganda. 
+And that's how the unit will find them. 
+You can run them the way you probably know already by around the unit case. 
+Error:
+You may have seen that over here in your griddle tasks there is a category of tasks. 
+Call verification. 
+And if you're available you'll see that there is one of the tasks called test. 
+So you can actually just run the test for your system if you don't want to build the whole system for example sep. 
+All right so you'll see that. 
+If you do that you can run it. 
+And. 
+All my test cases pass now. 
+Wooden immediately have the kind of rapport we get from the unit. 
+So the way it works. 
+With cradle is that. 
+Error:
+In the bill directory. 
+The cradle creates. 
+Right on the reports blah blah blah if. 
+Error:
+Diving elevate you'll find. 
+An index of html. 
+What is your. 
+Weather report. 
+So i hear tell me about 41 tests and they're all are passing. 
+In the system. 
+Error:
+Error:
+This is an old system my developed for my results of years ago and. 
+The reason i'm using it for this conversation is because i do have some real test cases that will run and we can sort of talk about the coverage of those tests. 
+That's the demonstrate. 
+How this will work i can be open up. 
+One of those tests and. 
+Make it fail for a second. 
+We'll see that then when i run my. 
+Cradle test. 
+Task here. 
+It will. 
+So now i can go back to my. 
+Error:
+Error:
+Barossa allows me to actually look at all. 
+Philadelphia cases in this case there's only one. 
+Click on it and then see the. 
+The reason. 
+Error:
+Basically the expected value. 
+Error:
+Was. 
+But i'm sorry it was one. 
+What's. 
+But what i got. 
+Error:
+Error:
+Let me just fix that error. 
+Right now we're not going to need. 
+Error:
+Error:
+Error:
+Okay so. 
+That's how you can just run all your tests using gradle and it's a great way to to sort of. 
+Keep track of what's going on with your test for example you could. 
+Be pushing. 
+This part of the build directory to your first story and then. 
+Error:
+The state of your testing for your system can be seen online based on this. 
+It's something that. 
+Manual systems i use what's called devops. 
+Automate the building process and so on will will put things online this way to. 
+Provide that information for anybody that's in. 
+Error:
+What will do with regards to test coverage is will use a tool called. 
+Jack coco to. 
+To calculate the coverage of our test cases. 
+As you've seen. 
+Pause playing the slides. 
+The idea of coverage is that. 
+We want to see when all of this cases get executed. 
+What percentage of let's say lines of code. 
+Actually does get exe. 
+And it's possible that while we're on 40s. 
+There's part of the code that never executed because the input was shot. 
+Play execution of the gold never went there right. 
+If you have conditional. 
+Call dave statements and so on. 
+Error:
+Error:
+You provide the right input for. 
+If we find that. 
+When will run all the tests. 
+Let's say 100% of our code gets executed. 
+That's good it doesn't mean that. 
+We have complete testing or there's no bugs. 
+Ride despicable. 
+One line of code that executed. 
+Error:
+It will work correctly. 
+Right about this we know that there isn't some part of the code that we completely forgot about and it's never tested so then who knows. 
+What will happen if it runs after we release the system. 
+So the idea was test coverage is that. 
+If we have. 
+Lower discoveries we should be doing more testing. 
+If it's high it's okay but it doesn't mean that our job has testers is done. 
+In fact provides. 
+Error:
+Little information about how good the testing is. 
+All right still though there is some benefits to doing test coverage reports and in the real world. 
+Your monitor will probably require. 
+So it's good to know about it. 
+So we'll use this to call jacob here to do this. 
+So. 
+I'm sorry to hear the builder greater file that i'm using this system. 
+This isn't going to be posted for you to sort of copy paste from if you want. 
+Only you need is this plug-in here called jackalope so if you have that. 
+Can you build a great fall you're good to go i have this extra customization here they're not absolutely necessary. 
+But basically what to say is that when i run my tests. 
+It will always run the coverage report afterwards also. 
+Is that something you don't want you can remove that or. 
+Never included in your. 
+Error:
+You're going to build the greatest song. 
+Error:
+Put it under the bill director as well into this lyrics called custom. 
+Jackalope. 
+All right so we'll see it's. 
+It's over. 
+Okay so that's what i need in my building and once you do this you refresh the greater project. 
+You. 
+Over here to. 
+Refers to the greater task. 
+Then. 
+And you'll see that in the verification category of tasks you'll have this extra. 
+Error:
+Separate if you want just by itself. 
+Error:
+The way of set it up here are you always runs when i run my test so i don't really need to run this task separately. 
+Error:
+Mother. 
+So let's see what happens so since i've set it up this way when i run my tests we saw the report about the test how many passed how many failed but this says that also the capitals. 
+Report has been created and in fact if i go to this direction without a specified. 
+That i want to report to go into. 
+We'll see that there's also an index of html here. 
+With the discover. 
+All right so in this case discovered it's also the name of the projects and that's why. 
+It sounds like this. 
+And here's my report let's see it basically says that 44 percent of my code is actually covered. 
+Error:
+56% of 8 was never executed when around my tests. 
+Also only 40% of the branches in the code all the different ways that if statements could go was actually. 
+Follow. 
+Error:
+That doesn't sound great right. 
+In fact if you'll see here. 
+Out of the five classes i have in the system one of them actually was never. 
+Error:
+Error:
+Error:
+As the first glance looks like a while probably should be doing more testing but the point of this demo is to show you that it's not only about the numbers right now. 
+Saying i have 70% coverage. 
+Doesn't give a lot of information it's really what's much more important is well with 70% is it and if that 30% that's missing is not so important. 
+Maybe it's fine. 
+If it's very important functionality that you never tested that's a big problem right so. 
+Error:
+Well managers made this one the number and. 
+Move on as a tester you should. 
+Always drill down and see more detail about what happened so here's what i'll do here. 
+Error:
+On the pack. 
+Call tesco routes which is the only package in the system. 
+And i can see the five classes in the system. 
+281 of them called mojo here. 
+Is no capital of all right the company was never touched. 
+But since i know this is a matter that this is not a big deal right this is the command line interface for this. 
+System which is actually calculates some distance between three structures so. 
+Yeah i know i'm never texting that testing the back and that actually does that all the calculations which is very. 
+So the fact that covers for that is 0 is actually not a problem for me. 
+If i do want to test the interface i can do it but. 
+That's a different kind of. 
+Problem. 
+All right in fact in this case the more important class that does pretty much most of the job and you can see it's a bigger class also. 
+Is this motor calculator. 
+And that's and they are the. 
+Coverage is 50% so a little bit better. 
+But let's do that i want to see more. 
+Error:
+Detail about. 
+Error:
+All right so i can see that some methods are completely missed. 
+Error:
+Somewhere in the middle right. 
+Error:
+Again once since you know your code hopefully then you can tell whether this is good bad or okay. 
+For example the former methods that are completely missed i know they're not a big deal because. 
+The functionality that happens in another unlikely situations it's not the main reason why i use this system. 
+So the fact that i haven't tested. 
+Does a concern me 2 months. 
+Error:
+Error:
+In fact one of the most important methods is this. 
+Read the sorceress file. 
+Method was actually with the input so it's important that i. 
+You know i test. 
+Very well. 
+So i can see there that my. 
+Cover those 80% so okay that looks better and better all the time. 
+Error:
+And i can actually drill down to the cold level. 
+And see exactly. 
+How many weeks are the 20% lines of code that have been covered. 
+Error:
+Yeah so this is the method text me directly to it and i can say. 
+The color coding tells me that the green line is a line of code that was covered. 
+I read one is when i never got covered. 
+Error:
+Error:
+Is not going to be a big problem right i can see that the part that actually opens up. 
+Error:
+Has been tested of course but i never tested the situation where. 
+The following that i'm talking is actually doesn't exist or canobie open for some reason. 
+Alright so i don't have a test case for that. 
+But i'm not really concerned about this in this case so i'm quite happy with that. 
+Error:
+The yellow part here. 
+Has to do with if statements right so. 
+Any statement could be of course the condition could be true or false. 
+So with regards to what we call branch coverage. 
+We want to make sure that. 
+Have a test case. 
+We have a test case that. 
+Make this condition true and we have a different excuse that makes it fal. 
+Error:
+No we basically make sure that both of those situations are being tested. 
+So here are the yellow things as you can see the message that tells me one of two branches missed. 
+Tell me that basically only have test cases and make this true banana make it for vice versa. 
+In fact in this case i can see that because the body of the statement is read here i mean that i never. 
+Error:
+Going there my code never goes in there. 
+Which means of the condition is always false. 
+But as you can probably guess from the fact that if i go in there i'm throwing it runtime exception. 
+That's only a case where something has gone wrong and i'm not testing for that. 
+Error:
+Basically if the input file does not have the format that this program expects. 
+Then that's when we are actually. 
+I'm going to the code and create an exception. 
+Again it wasn't my goal when i was testing this to. 
+To deal with this kind of situation. 
+If that's what happens then i'll just fix the format and use the system. 
+So i don't have a test case for. 
+Same situation down here with another if statement. 
+Better than that i can see that everything has been. 
+Error:
+Robert farley well this particular statement. 
+Error:
+A true nfl situation for it happened in my test cases so that's good. 
+And the other car that is missing. 
+Towards the end of the method is again. 
+Cuts blocks. 
+Live for know being open to open or closed. 
+The the. 
+So yeah. 
+Error:
+Cases. 
+Error:
+Are rather unlikely to happen or. 
+Even if you do happen. 
+The way i use the system is not a big deal i can fix this problem. 
+And i never have to worry about. 
+Error:
+That's the kind of thing that you will need to do also for your system right this kind of analysis. 
+The your testing document for your final submission should have discovered analysis. 
+Error:
+Error:
+Present the numbers and also present. 
+Error:
+Identification if you coverage. 
+It's only 70% then. 
+Why is that good or why is that. 
+Based on this kind of analysis like the man i did. 
+Okay so let's talk about it for this all right so as you can see here i can go back to the other methods. 
+So it's never interactive kind of kind of report. 
+That i can use. 
+To to see the coverage of different parts of. 
+All right so that can be. 
+Very handy if you trying to decide to do more testing or not. 
+Error:
+Error:
+One part of the system but you are responsible for. 
+Error:
+Error:
+I recommend using it for your tesco development. 
+And of course. 
+You should do it for your laptop. 
+Error:
+Okay and that's about it this project is a very posted. 
+On my guitar so the. 
+Is available. 
+The course outline so you should be able to replicate this kind of. 
+Results. 
+For your system. 
+Okay see you next time. 

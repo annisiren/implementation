@@ -1,0 +1,14 @@
+label,bow_wt,bow_stem,bow_lem
+assembl,,1.0,
+assemble,1.0,,1.0
+convert,2.0,2.0,2.0
+creat,,1.0,
+create,1.0,,1.0
+demonstr,,1.0,
+demonstrate,1.0,,1.0
+recogn,,1.0,
+select,1.0,1.0,1.0
+test,24.0,39.0,30.0
+use,7.0,13.0,7.0
+verifi,,3.0,
+verify,3.0,,3.0
