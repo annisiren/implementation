@@ -3,10 +3,7 @@ import os
 from os import walk
 import pickle
 import gc
-import numpy
-import json
 
-import ta_obj as TA_OBJ
 # import ta_pre_processing as TA_PP
 # import ta_feature_engineering as TA_FE
 
@@ -28,9 +25,9 @@ def read_files(read_path, write_path_pp, write_path_fe):
         keyword_file_name_fe = file_location_fe.replace(" ", "_").split('.')[0]+'.txt'
 
         with open(filename, 'r', encoding='utf-8') as file:
-            obj_pp = TA_OBJ.pre_processing(filename, file.read())
+            obj_pp = ta_obj.pre_processing(filename, file.read())
 
-        obj_fe = TA_OBJ.feature_engineering(obj_pp)
+        obj_fe = ta_obj.feature_engineering(obj_pp)
 
         # print(obj_fe.tfidf_wt[0])
         # input("Press enter to continue...")

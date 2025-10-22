@@ -37,11 +37,12 @@ def main():
 
     # c_tree = helper.tree(course)
     # paths = helper.get_paths(c_tree)
+    # print(paths)
     # helper.lp_creator(paths)
 
     # print(paths)
 
-    helper.save_course(course)
+    # helper.save_course(course)
 
 
 

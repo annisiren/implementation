@@ -1,5 +1,5 @@
 import os
-import func_helper as helper
+from Data_Analysis import func_helper as helper
 import tkinter as tk
 from tkinter.filedialog import askopenfilename
 

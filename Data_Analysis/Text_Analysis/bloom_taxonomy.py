@@ -6,7 +6,7 @@ np.set_printoptions(threshold=sys.maxsize)
 from scipy.stats import variation
 
 import pandas as pd
-import ta_obj as TA_OBJ
+
 
 def read_files(read_path, read_file, write_path):
     print("read_files")
@@ -40,8 +40,8 @@ def read_files(read_path, read_file, write_path):
     key_obj.to_csv(write_path, index=False)
 
 def word_pp(word, words):
-    obj_pp = TA_OBJ.pre_processing(word, words)
-    obj_fe = TA_OBJ.feature_engineering(obj_pp)
+    obj_pp = ta_obj.pre_processing(word, words)
+    obj_fe = ta_obj.feature_engineering(obj_pp)
 
     return obj_fe
 
